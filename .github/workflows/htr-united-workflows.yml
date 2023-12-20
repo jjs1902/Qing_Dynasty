@@ -1,0 +1,92 @@
+Ce fichier a été généré automatiquement avec le formulaire d'actions Github HTR-United
+Nom: HTR United Workflow
+"on":
+- push
+- pull-quiest
+autorisations:
+contenu: écrire
+emplois:
+HTRUC:
+ubuntu-latest
+étapes:
+- utilisations: actions/recherchure-v2
+- nom : Mise en place Python 3.8
+utilise: actions/setup-python-v2
+avec:
+Version python: 3,8
+- nom : Installer des dépendances
+course:
+Python -m pip install -upgrade pip
+pip install htruc
+- nom : Run HTRUC
+course:
+test htruc htr-united.yml
+HTR-United-Metadata-Generator:
+ubuntu-latest
+env:
+GITHUB-TOKEN: - secrets.GITHUB-TOKEN
+étapes:
+- utilisations: actions/recherchure-v2
+- nom : Mise en place Python 3.8
+utilise: actions/setup-python-v2
+avec:
+Version python: 3,8
+- nom : Installer des dépendances
+course:
+Python -m pip install -upgrade pip
+pip install htr-unit-metadata-générateur htruc anybadge
+- nom : Rapport d'offres
+course:
+humGenerator --chars -n NFD --parse alto --group ./data/-/-.xml-github-envs --to-json updated-metrics.json
+Chat envs.txt
+- nom : Obtenez HTR United Badge Template
+si : github.ref : 'ref/heads/main'
+utilise: andymckay/get-gist-action-master
+avec:
+gistURL: https://gist.github.com/PonteIneptique/7813bb99f234b334fb9c6c429ec2406
+- nom: Mettre à jour automatiquement le catalogue et les insignes
+si : github.ref : 'ref/heads/main'
+course:
+htruc update-volumes htr-united.yml updated-metrics.json --inplace
+- Générer des badges
+badges mkdir-p
+anybadge -value-env.HTRUNITED-CHARS-------------------------------------------------------------------------------------------------------------------------
+anybadge --value-env.HTRUNITED-REGNS--------------------------------------------------------------------------------------------------------------------
+anybadge -value-env.HTRUNITED-LINES -file-badges/lines.svg -label-Lines-color-007ec6 -overwrite-template-pas.get.outputs.file
+anybadge --value-env.HTR-UNITED-FILES-------------------------------------------------------------------------------------------------------------------------
+git config user.name github-actions
+git config user.email github-actions.github.com
+git ajouter htr-united.yml ./badges/
+git commit -m "[Automatique) Mettre à jour le catalogue et les badges" - écho à "Rien à commettre"
+git push et écho "Rien à pousser"
+ChocoMufin:
+ubuntu-latest
+étapes:
+- utilisations: actions/recherchure-v2
+- nom : Mise en place Python 3.8
+utilise: actions/setup-python-v2
+avec:
+Version python: 3,8
+- nom : Installer des dépendances
+course:
+Python -m pip install -upgrade pip
+pip install chocomufin
+- nom : Run ChocoMufin
+course:
+la chocomufine génère tableau.csv ./data/-/-xml
+table de chat.csv
+HTRVX:
+ubuntu-latest
+étapes:
+- utilisations: actions/recherchure-v2
+- nom : Mise en place Python 3.8
+utilise: actions/setup-python-v2
+avec:
+Version python: 3,8
+- nom : Installer des dépendances
+course:
+Python -m pip install -upgrade pip
+Pip install htrvx
+- nom : Exécuter HTRVX
+course:
+htrvx -verbose --group --format alto --check-empty --segmonto --xsd --raise-empty ./data/-/-/-/-/-/-//-/-//-///////////////////////////////////
