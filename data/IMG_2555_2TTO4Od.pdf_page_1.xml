@@ -1884,13 +1884,13 @@
           
           
           <TextLine ID="eSc_line_42d13e3e"
-                    
+                    TAGREFS="LT757"
                     BASELINE="2257 98 2377 96" 
                     HPOS="2253"
                     VPOS="46"
                     WIDTH="123"
                     HEIGHT="82">
-            <Shape><Polygon POINTS="2341 90 2312 46 2283 46 2253 55 2256 96 2256 122 2373 128 2376 93 2373 58 2353 49 2341 90"/></Shape>
+            <Shape><Polygon POINTS="2312 46 2283 46 2253 55 2256 96 2256 122 2373 128 2376 93 2373 58 2353 49 2341 90"/></Shape>
 	    <String CONTENT="307"
                     HPOS="2253"
                     VPOS="46"
