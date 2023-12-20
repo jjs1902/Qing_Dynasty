@@ -1,32 +1,123 @@
-schema: https://htr-united.github.io/schema/2023-06-27/schema.json
-title: Qing Dynasty
-url: https://github.com/jjs1902/Qing_Dynasty
 authors:
-  - name: Jessica
-    surname: Da Silva Fernandes
-    roles:
-      - transcriber
-      - project-manager
-institutions: []
-description: 'Article Qing Dynasty dans l’Encyclopedia of Asian History '
-project-name: FoNDUE
-language:
-  - eng
-production-software: eScriptorium + Kraken
+- name: Jessica
+  roles:
+  - transcriber
+  - project-manager
+  surname: Da Silva Fernandes
 automatically-aligned: false
-script:
-  - iso: Latn
-script-type: only-typed
-time:
-  notBefore: '1900'
-  notAfter: '2000'
+characters:
+  members:
+  - e
+  - n
+  - i
+  - a
+  - o
+  - t
+  - r
+  - s
+  - h
+  - d
+  - l
+  - u
+  - c
+  - g
+  - m
+  - p
+  - f
+  - y
+  - .
+  - v
+  - w
+  - ','
+  - '1'
+  - b
+  - C
+  - T
+  - ¬
+  - '8'
+  - '-'
+  - S
+  - '9'
+  - (
+  - )
+  - x
+  - '6'
+  - W
+  - Q
+  - k
+  - R
+  - '7'
+  - H
+  - A
+  - M
+  - B
+  - ;
+  - '5'
+  - Y
+  - N
+  - '0'
+  - '4'
+  - '2'
+  - I
+  - '3'
+  - E
+  - G
+  - z
+  - K
+  - '['
+  - L
+  - ']'
+  - D
+  - P
+  - Z
+  - J
+  - ’
+  - F
+  - q
+  - j
+  - O
+  - '"'
+  - X
+  - ':'
+  - "'"
+  - ́
+  - ”
+  - U
+  - “
+  - '?'
+  - —
+  - V
+  mode: NFD
+description: 'Article Qing Dynasty dans l’Encyclopedia of Asian History '
+format: Alto-XML
 hands:
   count: '1'
   precision: exact
+institutions: []
+language:
+- eng
 license:
-  - name: CC-BY 4.0
-    url: https://creativecommons.org/licenses/by/4.0/
-format: Alto-XML
+- name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+production-software: eScriptorium + Kraken
+project-name: FoNDUE
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+script:
+- iso: Latn
+script-type: only-typed
+time:
+  notAfter: '2000'
+  notBefore: '1900'
+title: Qing Dynasty
+url: https://github.com/jjs1902/Qing_Dynasty
 volume:
-  - metric: pages
-    count: 5
+- count: 13613
+  metric: characters
+- count: 5
+  metric: files
+- count: 341
+  metric: lines
+- count: 5
+  metric: pages
+- count: 13
+  metric: regions
