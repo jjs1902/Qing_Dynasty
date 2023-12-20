@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>IMG_2554_HymvQJo.pdf_page_1.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1861" LABEL="Main Zone" DESCRIPTION="block type Main Zone"/><OtherTag ID="BT1881" LABEL="Title Zone" DESCRIPTION="block type Title Zone"/><OtherTag ID="BT1882" LABEL="Numbering Zone" DESCRIPTION="block type Numbering Zone"/><OtherTag ID="BT1883" LABEL="Author Zone" DESCRIPTION="block type Author Zone"/>
+    <OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT755" LABEL="Title" DESCRIPTION="line type Title"/><OtherTag ID="LT756" LABEL="Default line" DESCRIPTION="line type Default line"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="1"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="584"
+                   VPOS="11"
+                   WIDTH="1259"
+                   HEIGHT="3463"
+                   ID="eSc_textblock_af9fcd51"
+                   >
+          <Shape><Polygon POINTS="1809 30 1762 90 1821 105 1820 1061 1832 1134 1825 1297 1832 1496 1843 3439 596 3474 592 3337 584 2791 585 2628 596 23 666 11"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_e1fa51fd"
+                    TAGREFS="LT756"
+                    BASELINE="602 78 1175 70 1717 118" 
+                    HPOS="596"
+                    VPOS="23"
+                    WIDTH="1120"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="1678 52 1648 52 1619 52 1590 49 1561 49 1531 49 1502 46 1473 46 1444 46 1414 43 1385 43 1356 43 1327 40 1297 40 1268 40 1239 40 1210 38 1181 38 1151 38 1122 35 1093 35 1064 35 1034 32 1005 32 976 32 947 32 917 29 888 29 859 29 830 26 800 26 771 26 742 23 713 23 684 23 654 23 625 35 622 35 599 76 596 99 1131 96 1710 140 1716 116 1716 55 1707 52"/></Shape>
+	    <String CONTENT="formal mechanisms for social mobility lagged be¬"
+                    HPOS="596"
+                    VPOS="23"
+                    WIDTH="1120"
+                    HEIGHT="117"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8327f352"
+                    TAGREFS="LT756"
+                    BASELINE="608 140 1166 122" 
+                    HPOS="605"
+                    VPOS="78"
+                    WIDTH="561"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="608 140 608 166 1163 146 1166 122 1157 78 605 84 608 140"/></Shape>
+	    <String CONTENT="hind population growth."
+                    HPOS="605"
+                    VPOS="78"
+                    WIDTH="561"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5adb66b7"
+                    TAGREFS="LT756"
+                    BASELINE="671 187 1735 216" 
+                    HPOS="666"
+                    VPOS="128"
+                    WIDTH="1067"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="786 134 757 134 727 134 698 134 669 137 669 184 666 219 780 213 862 228 879 230 882 230 894 230 988 207 1406 216 1435 236 1438 236 1441 236 1444 236 1447 236 1482 225 1528 245 1531 245 1727 251 1733 213 1730 163 1204 128 1201 128 800 131 786 134"/></Shape>
+	    <String CONTENT="Qing Thought and Literature. The trauma of the"
+                    HPOS="666"
+                    VPOS="128"
+                    WIDTH="1067"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a6b4b874"
+                    TAGREFS="LT756"
+                    BASELINE="608 260 1306 251 1732 286" 
+                    HPOS="602"
+                    VPOS="198"
+                    WIDTH="1128"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="1423 207 1406 204 1391 213 1382 204 1365 204 1335 204 1306 201 1277 201 1248 201 1219 201 1189 198 1160 198 1131 198 1102 198 605 198 605 257 602 277 1283 271 1724 295 1730 283 1730 225 1458 219 1458 216 1447 207 1423 207"/></Shape>
+	    <String CONTENT="Manchu conquest led Chinese scholars to concern"
+                    HPOS="602"
+                    VPOS="198"
+                    WIDTH="1128"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a8d42d05"
+                    TAGREFS="LT756"
+                    BASELINE="605 321 1371 312 1738 347" 
+                    HPOS="599"
+                    VPOS="254"
+                    WIDTH="1137"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="1479 263 1403 274 1344 254 1341 254 1338 254 602 266 602 318 599 336 1306 330 1400 350 1730 356 1736 344 1736 283 1710 283 1517 283 1511 280 1490 263 1479 263"/></Shape>
+	    <String CONTENT="themselves with te causes of Ming collapse. Huang"
+                    HPOS="599"
+                    VPOS="254"
+                    WIDTH="1137"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4d0c5c30"
+                    TAGREFS="LT756"
+                    BASELINE="602 380 1341 371 1742 408" 
+                    HPOS="596"
+                    VPOS="312"
+                    WIDTH="1143"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="1394 336 1373 318 1371 318 1368 318 1268 312 1242 312 1213 312 1183 312 1154 312 1125 312 1096 315 1067 315 1037 315 1008 315 979 315 950 315 920 315 891 315 862 315 839 315 815 327 798 333 783 327 765 318 748 318 742 324 733 330 622 324 602 365 599 377 596 400 730 403 733 403 736 403 792 382 812 403 812 406 815 406 818 406 821 406 841 406 996 385 1087 406 1090 406 1093 406 1096 406 1128 388 1245 388 1733 415 1739 406 1736 344 1707 344 1549 344 1534 339 1458 318 1444 318"/></Shape>
+	    <String CONTENT="Zongxi (1610-1695) advocated checks on the"
+                    HPOS="596"
+                    VPOS="312"
+                    WIDTH="1143"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5f59e995"
+                    TAGREFS="LT756"
+                    BASELINE="613 435 1353 432 1745 466" 
+                    HPOS="608"
+                    VPOS="374"
+                    WIDTH="1134"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="1718 406 1689 403 1660 400 1631 397 1625 394 1216 374 1213 374 610 382 610 432 608 456 1210 450 1257 464 1259 464 1262 464 1362 453 1736 476 1742 464 1739 403 1718 400 1718 406"/></Shape>
+	    <String CONTENT="power ot monarchs and delegation of authority; Gu"
+                    HPOS="608"
+                    VPOS="374"
+                    WIDTH="1134"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d8731f79"
+                    TAGREFS="LT756"
+                    BASELINE="605 499 1265 491 1756 526" 
+                    HPOS="599"
+                    VPOS="432"
+                    WIDTH="1155"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="1710 464 1593 464 1587 461 1569 450 1563 450 1537 447 1534 444 1482 456 1458 441 1449 441 1438 438 1394 456 1373 438 1373 435 1371 435 1368 435 1236 432 1233 432 1131 450 1075 432 1069 432 1040 432 1011 432 982 432 602 444 602 496 599 508 754 523 757 523 760 523 780 514 800 505 850 517 897 526 900 526 903 526 926 517 958 508 1087 508 1099 523 1102 523 1102 526 1105 526 1107 526 1110 526 1113 526 1116 526 1119 523 1140 511 1335 526 1338 526 1400 514 1417 529 1420 529 1423 529 1426 529 1517 517 1566 534 1575 537 1578 537 1581 540 1751 540 1754 523 1751 464 1739 464 1710 464"/></Shape>
+	    <String CONTENT="Yanwu (1612-1682) criticized Neo-Confucian"
+                    HPOS="599"
+                    VPOS="432"
+                    WIDTH="1155"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_efb75c97"
+                    TAGREFS="LT756"
+                    BASELINE="613 561 1341 555 1747 581" 
+                    HPOS="608"
+                    VPOS="494"
+                    WIDTH="1137"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1718 523 1689 520 1660 517 1631 517 1601 514 1102 494 1099 494 610 508 610 558 608 581 1110 570 1739 593 1745 578 1742 523 1718 523"/></Shape>
+	    <String CONTENT="scholasticism and called for the pursuit of practical"
+                    HPOS="608"
+                    VPOS="494"
+                    WIDTH="1137"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f4091c21"
+                    TAGREFS="LT756"
+                    BASELINE="599 622 1347 616 1748 643" 
+                    HPOS="596"
+                    VPOS="558"
+                    WIDTH="1152"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="1707 581 1678 578 1648 578 1619 575 1590 572 1561 572 1531 570 1502 567 1496 567 1485 578 1385 558 1359 558 599 570 599 622 596 640 1043 631 1742 654 1748 643 1748 584 1707 578 1707 581"/></Shape>
+	    <String CONTENT="knowledge. Scholars continued to regard the classics"
+                    HPOS="596"
+                    VPOS="558"
+                    WIDTH="1152"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f056f56b"
+                    TAGREFS="LT756"
+                    BASELINE="605 684 1327 678 1753 698" 
+                    HPOS="599"
+                    VPOS="619"
+                    WIDTH="1152"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="1710 640 1490 640 1487 637 1455 622 1449 622 1447 622 1397 637 1391 637 1382 637 1283 619 953 619 923 619 920 619 917 619 915 619 885 634 882 634 847 619 836 619 806 619 795 619 602 631 602 681 599 704 1257 695 1353 713 1362 713 1365 716 1748 716 1751 695 1748 640 1739 640 1710 640"/></Shape>
+	    <String CONTENT="as the basis of all learning. Gradually a &quot;school of"
+                    HPOS="599"
+                    VPOS="619"
+                    WIDTH="1152"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a263d26f"
+                    TAGREFS="LT756"
+                    BASELINE="599 745 1356 742 1753 763" 
+                    HPOS="593"
+                    VPOS="681"
+                    WIDTH="1158"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="800 681 771 681 768 681 610 692 596 713 596 742 593 760 1143 760 1251 774 1280 777 1283 777 1286 777 1289 777 1292 774 1306 762 1423 762 1473 777 1485 780 1487 780 1490 783 1748 783 1751 762 1748 704 1119 681 1116 681 859 695 847 695 815 681 800 681"/></Shape>
+	    <String CONTENT="empirical research” (kaozheng xue) emerged, based"
+                    HPOS="593"
+                    VPOS="681"
+                    WIDTH="1158"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aee626d7"
+                    TAGREFS="LT756"
+                    BASELINE="602 806 1365 803 1756 818" 
+                    HPOS="599"
+                    VPOS="745"
+                    WIDTH="1157"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="1128 745 1099 745 1069 745 1040 745 1011 745 985 745 602 760 602 806 599 824 1751 836 1756 818 1754 765 1140 745 1128 745"/></Shape>
+	    <String CONTENT="on close examination of classical texts and use of"
+                    HPOS="599"
+                    VPOS="745"
+                    WIDTH="1157"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b88fe6a4"
+                    TAGREFS="LT756"
+                    BASELINE="602 868 1277 865 1745 882" 
+                    HPOS="599"
+                    VPOS="806"
+                    WIDTH="1146"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="1245 806 1216 806 1186 806 1157 806 1128 806 1099 806 1069 806 1040 806 1011 806 982 806 953 806 923 806 903 806 602 812 602 868 599 888 1414 885 1435 900 1438 900 1441 900 1739 903 1745 882 1742 824 1268 806 1245 806"/></Shape>
+	    <String CONTENT="the inductive method. This led to advances in philol¬"
+                    HPOS="599"
+                    VPOS="806"
+                    WIDTH="1146"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1b9897ac"
+                    TAGREFS="LT756"
+                    BASELINE="610 929 1754 941" 
+                    HPOS="608"
+                    VPOS="868"
+                    WIDTH="1146"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="1163 868 610 877 610 929 608 947 1748 961 1754 941 1751 891 1166 868 1163 868"/></Shape>
+	    <String CONTENT="ogy and etymology, and also to reassessment of or¬"
+                    HPOS="608"
+                    VPOS="868"
+                    WIDTH="1146"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b6612285"
+                    TAGREFS="LT756"
+                    BASELINE="602 996 1309 991 1762 1008" 
+                    HPOS="596"
+                    VPOS="932"
+                    WIDTH="1163"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="1330 935 1300 935 1271 935 1242 935 1213 935 1183 935 1154 932 1125 932 1096 932 1087 932 599 941 599 993 596 1002 678 1020 681 1020 1011 1011 1148 1008 1754 1023 1759 1005 1759 953 1350 935 1330 935"/></Shape>
+	    <String CONTENT="thodox interpretations of the classics-particularly"
+                    HPOS="596"
+                    VPOS="932"
+                    WIDTH="1163"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f65aa9ea"
+                    TAGREFS="LT756"
+                    BASELINE="605 1058 1102 1052 1762 1070" 
+                    HPOS="599"
+                    VPOS="991"
+                    WIDTH="1160"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="1192 991 1061 1002 1043 1002 1040 1002 1014 991 1011 991 982 991 953 991 923 993 894 993 865 993 836 993 806 993 777 993 748 993 730 993 602 993 602 1055 599 1067 1754 1093 1759 1069 1759 1014 1195 991 1192 991"/></Shape>
+	    <String CONTENT="by Dai Zhen (1724-1777). [See also Huang Zongxi;"
+                    HPOS="599"
+                    VPOS="991"
+                    WIDTH="1160"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b152047b"
+                    TAGREFS="LT756"
+                    BASELINE="605 1122 1639 1113" 
+                    HPOS="599"
+                    VPOS="1064"
+                    WIDTH="1038"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1622 1067 1593 1067 1566 1064 599 1069 602 1119 602 1137 1637 1137 1637 1110 1628 1067 1622 1067"/></Shape>
+	    <String CONTENT="Gu Yanwu; Dai Zhen; and Kaozheng Xue.]"
+                    HPOS="599"
+                    VPOS="1064"
+                    WIDTH="1038"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0d040302"
+                    TAGREFS="LT756"
+                    BASELINE="654 1178 1774 1189" 
+                    HPOS="648"
+                    VPOS="1119"
+                    WIDTH="1123"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="651 1175 648 1192 663 1204 666 1204 669 1204 672 1204 885 1192 900 1192 923 1207 926 1207 929 1207 932 1207 1110 1198 1175 1195 1765 1213 1771 1186 1771 1140 1461 1122 1458 1122 1268 1134 1239 1134 1236 1134 1221 1119 1219 1119 1216 1119 1213 1119 651 1125 651 1175"/></Shape>
+	    <String CONTENT="The state sponsored and controlled most aca¬"
+                    HPOS="648"
+                    VPOS="1119"
+                    WIDTH="1123"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f58797e1"
+                    TAGREFS="LT756"
+                    BASELINE="616 1245 1767 1254" 
+                    HPOS="610"
+                    VPOS="1192"
+                    WIDTH="1155"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="613 1242 610 1262 1759 1265 1765 1251 1762 1201 613 1192 613 1242"/></Shape>
+	    <String CONTENT="demic activity. The Qianlong emperor (r. 1736-"
+                    HPOS="610"
+                    VPOS="1192"
+                    WIDTH="1155"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ccc2048c"
+                    TAGREFS="LT756"
+                    BASELINE="608 1303 1762 1315" 
+                    HPOS="605"
+                    VPOS="1251"
+                    WIDTH="1157"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="608 1303 605 1324 1756 1338 1762 1315 1759 1262 608 1251 608 1303"/></Shape>
+	    <String CONTENT="1795) ordered the compilation of the 36,000-vol¬"
+                    HPOS="605"
+                    VPOS="1251"
+                    WIDTH="1157"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_06bb9b1e"
+                    TAGREFS="LT756"
+                    BASELINE="608 1365 1773 1376" 
+                    HPOS="602"
+                    VPOS="1315"
+                    WIDTH="1169"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="605 1362 602 1379 1765 1400 1771 1373 1771 1324 605 1315 605 1362"/></Shape>
+	    <String CONTENT="ume “Complete Library of the Four Treasuries&quot;. At"
+                    HPOS="602"
+                    VPOS="1315"
+                    WIDTH="1169"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4fcae654"
+                    TAGREFS="LT756"
+                    BASELINE="605 1432 1771 1441" 
+                    HPOS="602"
+                    VPOS="1382"
+                    WIDTH="1169"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="605 1432 602 1455 1765 1458 1771 1441 1768 1385 605 1382 605 1432"/></Shape>
+	    <String CONTENT="the same time, he ordered a literary inquisition to"
+                    HPOS="602"
+                    VPOS="1382"
+                    WIDTH="1169"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_12e58b55"
+                    TAGREFS="LT756"
+                    BASELINE="605 1499 1458 1493" 
+                    HPOS="602"
+                    VPOS="1444"
+                    WIDTH="856"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="605 1499 605 1520 1455 1511 1458 1493 1449 1444 602 1447 605 1499"/></Shape>
+	    <String CONTENT="destroy books regarded as seditious."
+                    HPOS="602"
+                    VPOS="1444"
+                    WIDTH="856"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fa466253"
+                    TAGREFS="LT756"
+                    BASELINE="648 1561 1777 1566" 
+                    HPOS="646"
+                    VPOS="1505"
+                    WIDTH="1131"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="648 1561 646 1572 1771 1584 1777 1566 1777 1511 648 1505 648 1561"/></Shape>
+	    <String CONTENT="Fiction flourished during the Qing period. Novels"
+                    HPOS="646"
+                    VPOS="1505"
+                    WIDTH="1131"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0dacb037"
+                    TAGREFS="LT756"
+                    BASELINE="605 1628 1780 1622" 
+                    HPOS="602"
+                    VPOS="1563"
+                    WIDTH="1178"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1537 1566 1508 1566 1479 1566 1449 1566 1420 1566 1391 1566 1362 1566 1333 1566 1303 1566 1274 1566 1245 1566 1216 1566 1186 1563 1157 1563 1128 1563 1099 1563 1069 1563 1040 1563 1023 1563 602 1575 605 1628 605 1645 1777 1645 1780 1622 1774 1572 1543 1566 1537 1566"/></Shape>
+	    <String CONTENT="reached their acme with Honglou meng (The Dream"
+                    HPOS="602"
+                    VPOS="1563"
+                    WIDTH="1178"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6e939e88"
+                    TAGREFS="LT756"
+                    BASELINE="605 1692 1777 1683" 
+                    HPOS="602"
+                    VPOS="1625"
+                    WIDTH="1175"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1508 1625 1479 1625 1449 1625 1420 1625 1391 1625 1371 1625 1362 1634 1347 1625 1333 1625 1303 1625 1286 1625 1090 1637 1049 1628 1040 1628 1011 1628 982 1628 970 1628 877 1639 862 1628 836 1628 830 1628 739 1639 678 1628 660 1628 648 1628 602 1642 605 1692 605 1707 1774 1704 1777 1683 1771 1637 1514 1625 1508 1625"/></Shape>
+	    <String CONTENT="of the Red Chamber, also entitled The Story of the"
+                    HPOS="602"
+                    VPOS="1625"
+                    WIDTH="1175"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8ffd2534"
+                    TAGREFS="LT756"
+                    BASELINE="608 1754 1774 1745" 
+                    HPOS="605"
+                    VPOS="1692"
+                    WIDTH="1169"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="608 1754 608 1771 1771 1768 1774 1745 1768 1695 605 1692 608 1754"/></Shape>
+	    <String CONTENT="Stone) by Cao Xueqin (1715?-1763). Another well¬"
+                    HPOS="605"
+                    VPOS="1692"
+                    WIDTH="1169"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cc9a8002"
+                    TAGREFS="LT756"
+                    BASELINE="605 1815 1783 1809" 
+                    HPOS="602"
+                    VPOS="1762"
+                    WIDTH="1181"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="605 1815 605 1844 1780 1827 1783 1809 1774 1762 602 1762 605 1815"/></Shape>
+	    <String CONTENT="known novel of the period is Wu Jingzi&#39;s Rulin"
+                    HPOS="602"
+                    VPOS="1762"
+                    WIDTH="1181"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_016b16a6"
+                    TAGREFS="LT756"
+                    BASELINE="605 1882 1783 1876" 
+                    HPOS="602"
+                    VPOS="1812"
+                    WIDTH="1181"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="1186 1815 1183 1815 1140 1827 1134 1830 602 1830 605 1882 605 1906 1780 1903 1783 1876 1777 1827 1210 1812 1186 1815"/></Shape>
+	    <String CONTENT="waishi (The Scholars). [See also Chinese Literature;"
+                    HPOS="602"
+                    VPOS="1812"
+                    WIDTH="1181"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9d41a3a0"
+                    TAGREFS="LT756"
+                    BASELINE="608 1944 1637 1938" 
+                    HPOS="605"
+                    VPOS="1879"
+                    WIDTH="1032"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1628 1879 1599 1879 1569 1879 1540 1879 1511 1879 1482 1879 1452 1879 1423 1879 1420 1879 605 1888 608 1944 608 1967 1634 1967 1637 1938 1628 1879 1628 1879"/></Shape>
+	    <String CONTENT="Cao Xueqin; Wu Jingzi; and Rulin Waishi.]"
+                    HPOS="605"
+                    VPOS="1879"
+                    WIDTH="1032"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9c49a87b"
+                    TAGREFS="LT756"
+                    BASELINE="651 2014 1789 1999" 
+                    HPOS="648"
+                    VPOS="1949"
+                    WIDTH="1141"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="651 2014 651 2031 1786 2020 1789 1999 1780 1949 648 1961 651 2014"/></Shape>
+	    <String CONTENT="Dynastic Decline. By the end of the eighteenth"
+                    HPOS="648"
+                    VPOS="1949"
+                    WIDTH="1141"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c326e740"
+                    TAGREFS="LT756"
+                    BASELINE="608 2078 1789 2063" 
+                    HPOS="605"
+                    VPOS="2017"
+                    WIDTH="1184"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="608 2078 608 2098 1789 2087 1789 2063 1780 2017 605 2028 608 2078"/></Shape>
+	    <String CONTENT="century many of the classic signs of dynastic decline"
+                    HPOS="605"
+                    VPOS="2017"
+                    WIDTH="1184"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7e115621"
+                    TAGREFS="LT756"
+                    BASELINE="608 2142 1786 2125" 
+                    HPOS="605"
+                    VPOS="2081"
+                    WIDTH="1181"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="608 2142 608 2169 1783 2145 1786 2125 1777 2081 605 2084 608 2142"/></Shape>
+	    <String CONTENT="had appeared. Administrative deterioration was ex¬"
+                    HPOS="605"
+                    VPOS="2081"
+                    WIDTH="1181"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f31c9393"
+                    TAGREFS="LT756"
+                    BASELINE="605 2210 1789 2189" 
+                    HPOS="602"
+                    VPOS="2139"
+                    WIDTH="1187"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="605 2210 605 2230 1786 2215 1789 2189 1780 2139 602 2154 605 2210"/></Shape>
+	    <String CONTENT="emplified by the career of Heshen (1750-1799), a"
+                    HPOS="602"
+                    VPOS="2139"
+                    WIDTH="1187"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a89125e2"
+                    TAGREFS="LT756"
+                    BASELINE="608 2277 1794 2253" 
+                    HPOS="605"
+                    VPOS="2204"
+                    WIDTH="1189"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="608 2277 608 2303 1792 2277 1794 2253 1786 2204 605 2215 608 2277"/></Shape>
+	    <String CONTENT="Manchu courtier who became a favorite of the"
+                    HPOS="605"
+                    VPOS="2204"
+                    WIDTH="1189"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_95125252"
+                    TAGREFS="LT756"
+                    BASELINE="608 2344 1789 2324" 
+                    HPOS="602"
+                    VPOS="2262"
+                    WIDTH="1184"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="605 2341 605 2370 1783 2341 1786 2321 1777 2262 602 2286 605 2341"/></Shape>
+	    <String CONTENT="Qianlong emperor and rose rapidly from bodyguard"
+                    HPOS="602"
+                    VPOS="2262"
+                    WIDTH="1184"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8d62f436"
+                    TAGREFS="LT756"
+                    BASELINE="608 2411 1792 2382" 
+                    HPOS="605"
+                    VPOS="2332"
+                    WIDTH="1187"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="608 2411 608 2432 1789 2402 1792 2382 1783 2332 605 2353 608 2411"/></Shape>
+	    <String CONTENT="to grand councillor. Heshen&#39;s high status symbol¬"
+                    HPOS="605"
+                    VPOS="2332"
+                    WIDTH="1187"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a6b43417"
+                    TAGREFS="LT756"
+                    BASELINE="605 2484 1797 2449" 
+                    HPOS="599"
+                    VPOS="2391"
+                    WIDTH="1195"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="602 2481 602 2499 1794 2476 1794 2446 1786 2391 958 2420 891 2408 877 2408 874 2408 871 2408 868 2408 868 2411 850 2423 777 2411 762 2411 760 2411 745 2411 660 2429 599 2417 602 2481"/></Shape>
+	    <String CONTENT="ized official corruption and demoralization. [See"
+                    HPOS="599"
+                    VPOS="2391"
+                    WIDTH="1195"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cf793786"
+                    TAGREFS="LT756"
+                    BASELINE="607 2546 1493 2528" 
+                    HPOS="602"
+                    VPOS="2467"
+                    WIDTH="888"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="628 2481 625 2481 622 2481 602 2493 605 2543 605 2569 1490 2554 1490 2525 1482 2467 891 2490 847 2490 631 2481 628 2481"/></Shape>
+	    <String CONTENT="also Heshen and Qianlong Emperor.]"
+                    HPOS="602"
+                    VPOS="2467"
+                    WIDTH="888"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4c9e275f"
+                    TAGREFS="LT756"
+                    BASELINE="654 2610 1797 2584" 
+                    HPOS="651"
+                    VPOS="2534"
+                    WIDTH="1146"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="654 2610 654 2633 1797 2604 1797 2584 1789 2534 651 2552 654 2610"/></Shape>
+	    <String CONTENT="The White Lotus Rebellion, sparked by a mille¬"
+                    HPOS="651"
+                    VPOS="2534"
+                    WIDTH="1146"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_44b2cc30"
+                    TAGREFS="LT756"
+                    BASELINE="605 2677 1809 2651" 
+                    HPOS="602"
+                    VPOS="2598"
+                    WIDTH="1207"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="602 2660 605 2677 605 2701 1809 2669 1809 2651 1800 2598 608 2625 602 2660"/></Shape>
+	    <String CONTENT="narian religious sect, broke out in 1796. The sect"
+                    HPOS="602"
+                    VPOS="2598"
+                    WIDTH="1207"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c2545c34"
+                    TAGREFS="LT756"
+                    BASELINE="610 2750 1806 2715" 
+                    HPOS="608"
+                    VPOS="2657"
+                    WIDTH="1198"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="610 2750 610 2771 1806 2733 1806 2715 1797 2657 608 2689 610 2750"/></Shape>
+	    <String CONTENT="had won adherents among the volatile and unsettled"
+                    HPOS="608"
+                    VPOS="2657"
+                    WIDTH="1198"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_42df44bb"
+                    TAGREFS="LT756"
+                    BASELINE="610 2821 1808 2777" 
+                    HPOS="605"
+                    VPOS="2727"
+                    WIDTH="1201"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="608 2818 608 2847 1806 2797 1806 2774 1797 2727 605 2762 608 2818"/></Shape>
+	    <String CONTENT="population of west central China, and was moti¬"
+                    HPOS="605"
+                    VPOS="2727"
+                    WIDTH="1201"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_07db0755"
+                    TAGREFS="LT756"
+                    BASELINE="605 2885 1093 2882 1814 2842" 
+                    HPOS="599"
+                    VPOS="2785"
+                    WIDTH="1213"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="602 2882 602 2908 1809 2867 1812 2841 1809 2803 1756 2785 1754 2785 1751 2785 1601 2809 1593 2809 1587 2809 1447 2797 1444 2797 1441 2797 1371 2818 1362 2818 1341 2818 1198 2809 1195 2809 1192 2809 1160 2823 1157 2826 970 2832 964 2829 947 2818 944 2818 941 2818 938 2818 599 2841 602 2882"/></Shape>
+	    <String CONTENT="vated in part by opposition to official oppression."
+                    HPOS="599"
+                    VPOS="2785"
+                    WIDTH="1213"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7c46064b"
+                    TAGREFS="LT756"
+                    BASELINE="610 2949 1318 2943 1812 2914" 
+                    HPOS="608"
+                    VPOS="2861"
+                    WIDTH="1204"
+                    HEIGHT="112">
+            <Shape><Polygon POINTS="1251 2876 1248 2876 1245 2876 1242 2876 1183 2897 608 2897 610 2949 610 2973 1812 2940 1812 2914 1803 2861 1654 2864 1651 2864 1648 2864 1619 2882 1569 2867 1566 2867 1563 2867 1561 2867 1520 2885 1435 2870 1423 2870 1420 2870 1417 2870 1414 2870 1373 2888 1259 2876 1251 2876"/></Shape>
+	    <String CONTENT="Armed groups such as bandits and smugglers joined"
+                    HPOS="608"
+                    VPOS="2861"
+                    WIDTH="1204"
+                    HEIGHT="112"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_697a5240"
+                    TAGREFS="LT756"
+                    BASELINE="605 3019 1309 3013 1812 2984" 
+                    HPOS="602"
+                    VPOS="2932"
+                    WIDTH="1210"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="1113 2946 1110 2946 1107 2946 1105 2946 1102 2946 1058 2964 985 2949 973 2949 970 2949 967 2949 964 2949 964 2952 938 2970 707 2973 602 2961 605 3019 605 3043 1148 3043 1151 3043 1154 3043 1169 3028 1172 3028 1186 3028 1297 3040 1300 3040 1303 3040 1353 3025 1414 3037 1417 3037 1812 3008 1812 2984 1803 2932 1172 2961 1119 2946 1113 2946"/></Shape>
+	    <String CONTENT="the uprising, which the regular Qing banner forces"
+                    HPOS="602"
+                    VPOS="2932"
+                    WIDTH="1210"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3b737f8b"
+                    TAGREFS="LT756"
+                    BASELINE="604 3093 1821 3047" 
+                    HPOS="599"
+                    VPOS="2999"
+                    WIDTH="1219"
+                    HEIGHT="128">
+            <Shape><Polygon POINTS="599 3069 602 3092 602 3127 1818 3081 1818 3046 1809 2999 610 3046 599 3069"/></Shape>
+	    <String CONTENT="proved unable to subdue. Eventually the uprising"
+                    HPOS="599"
+                    VPOS="2999"
+                    WIDTH="1219"
+                    HEIGHT="128"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d75e0e3e"
+                    TAGREFS="LT756"
+                    BASELINE="604 3160 1309 3151 1812 3112" 
+                    HPOS="599"
+                    VPOS="3066"
+                    WIDTH="1210"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="602 3157 602 3180 1809 3151 1809 3110 1800 3066 1634 3084 1575 3072 1552 3069 1549 3069 1546 3069 1543 3069 1537 3075 1523 3087 1473 3075 1464 3075 1461 3075 1447 3078 1368 3092 1213 3084 1172 3084 1169 3084 1166 3084 1157 3087 1113 3101 993 3092 950 3089 947 3089 944 3089 941 3089 935 3095 912 3107 599 3107 602 3157"/></Shape>
+	    <String CONTENT="was put down by a locally organized militia, and by"
+                    HPOS="599"
+                    VPOS="3066"
+                    WIDTH="1210"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c4c56482"
+                    TAGREFS="LT756"
+                    BASELINE="610 3227 1403 3215 1818 3174" 
+                    HPOS="605"
+                    VPOS="3130"
+                    WIDTH="1210"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="608 3224 608 3250 1815 3212 1815 3171 1806 3130 1221 3165 605 3168 608 3224"/></Shape>
+	    <String CONTENT="1805 the White Lotus rebels had been annihilated."
+                    HPOS="605"
+                    VPOS="3130"
+                    WIDTH="1210"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0c508ee5"
+                    TAGREFS="LT756"
+                    BASELINE="625 3294 1359 3288" 
+                    HPOS="622"
+                    VPOS="3224"
+                    WIDTH="737"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="625 3294 625 3323 1356 3312 1359 3288 1350 3224 622 3236 625 3294"/></Shape>
+	    <String CONTENT="[See also White Lotus Society.]"
+                    HPOS="622"
+                    VPOS="3224"
+                    WIDTH="737"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_715d62e0"
+                    TAGREFS="LT756"
+                    BASELINE="654 3361 1371 3355 1828 3306" 
+                    HPOS="648"
+                    VPOS="3268"
+                    WIDTH="1179"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="1175 3288 1145 3288 1125 3288 1107 3300 1055 3291 1052 3291 950 3309 844 3297 824 3294 821 3294 818 3294 815 3294 815 3297 812 3297 792 3315 648 3303 651 3358 651 3388 1511 3370 1514 3370 1517 3370 1540 3355 1622 3364 1625 3364 1827 3341 1827 3303 1818 3268 1248 3297 1186 3288 1175 3288"/></Shape>
+	    <String CONTENT="The rebellion was both a symptom and a cause"
+                    HPOS="648"
+                    VPOS="3268"
+                    WIDTH="1179"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9c6e6be2"
+                    TAGREFS="LT756"
+                    BASELINE="606 3424 609 3421 622 3421 628 3421 690 3418 816 3418 903 3424 1162 3424 1301 3424 1360 3412 1400 3412 1462 3403 1579 3396 1632 3387 1703 3387 1768 3375 1789 3375 1817 3369" 
+                    HPOS="602"
+                    VPOS="3338"
+                    WIDTH="1213"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="1417 3350 1388 3353 1359 3355 1330 3355 1300 3355 1271 3355 1242 3355 1213 3355 1192 3355 602 3370 605 3423 605 3455 1116 3461 1119 3461 1815 3426 1815 3367 1803 3338 1423 3347 1417 3350"/></Shape>
+	    <String CONTENT="of dynastic decline. It resulted from social pressures"
+                    HPOS="602"
+                    VPOS="3338"
+                    WIDTH="1213"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

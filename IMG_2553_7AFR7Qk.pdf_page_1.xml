@@ -1,0 +1,954 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>IMG_2553_7AFR7Qk.pdf_page_1.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1861" LABEL="Main Zone" DESCRIPTION="block type Main Zone"/><OtherTag ID="BT1881" LABEL="Title Zone" DESCRIPTION="block type Title Zone"/><OtherTag ID="BT1882" LABEL="Numbering Zone" DESCRIPTION="block type Numbering Zone"/><OtherTag ID="BT1883" LABEL="Author Zone" DESCRIPTION="block type Author Zone"/>
+    <OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT755" LABEL="Title" DESCRIPTION="line type Title"/><OtherTag ID="LT756" LABEL="Default line" DESCRIPTION="line type Default line"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="608"
+                   VPOS="23"
+                   WIDTH="1271"
+                   HEIGHT="3423"
+                   ID="eSc_textblock_9bdcce4a"
+                   >
+          <Shape><Polygon POINTS="1856 23 1879 58 1844 3388 1333 3399 1213 3446 608 3423 643 596 666 35 713 23"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f4632eca"
+                    TAGREFS="LT756"
+                    BASELINE="675 76 1853 67" 
+                    HPOS="672"
+                    VPOS="23"
+                    WIDTH="1181"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1841 23 1812 23 1783 23 1754 23 1724 23 1695 23 1666 23 1637 23 1607 23 1578 23 1549 23 1520 23 1490 23 1461 23 1432 23 1403 23 1373 23 1344 23 1315 23 1286 23 1257 23 1227 23 1198 23 1169 23 1140 23 1110 23 1081 23 1052 23 1023 23 993 23 964 23 935 23 906 23 877 23 847 23 818 23 789 23 760 23 730 23 701 23 672 32 675 76 675 96 1850 87 1853 67 1847 23 1841 23"/></Shape>
+	    <String CONTENT="of Wu and other Chinese generals, the Manchus"
+                    HPOS="672"
+                    VPOS="23"
+                    WIDTH="1181"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cc6d803d"
+                    TAGREFS="LT756"
+                    BASELINE="672 134 1856 134" 
+                    HPOS="672"
+                    VPOS="87"
+                    WIDTH="1184"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="672 134 672 154 1853 157 1856 134 1853 87 672 87 672 134"/></Shape>
+	    <String CONTENT="overran North China and easily defeated the divided"
+                    HPOS="672"
+                    VPOS="87"
+                    WIDTH="1184"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_60cc0b97"
+                    TAGREFS="LT756"
+                    BASELINE="669 198 1844 192" 
+                    HPOS="666"
+                    VPOS="146"
+                    WIDTH="1178"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="669 198 669 222 1841 222 1844 192 1835 146 666 152 669 198"/></Shape>
+	    <String CONTENT="resistance. Initially meeting with little opposition,"
+                    HPOS="666"
+                    VPOS="146"
+                    WIDTH="1178"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_da532b77"
+                    TAGREFS="LT756"
+                    BASELINE="669 260 1853 254" 
+                    HPOS="666"
+                    VPOS="207"
+                    WIDTH="1187"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="669 260 669 280 1850 274 1853 254 1844 207 666 213 669 260"/></Shape>
+	    <String CONTENT="the Manchus won te allegiance of government of¬"
+                    HPOS="666"
+                    VPOS="207"
+                    WIDTH="1187"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_2491b8ae"
+                    TAGREFS="LT756"
+                    BASELINE="669 318 1856 318" 
+                    HPOS="669"
+                    VPOS="263"
+                    WIDTH="1187"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="669 318 669 339 1853 350 1856 318 1853 263 669 266 669 318"/></Shape>
+	    <String CONTENT="ficials and local gentry, many of whom welcomed"
+                    HPOS="669"
+                    VPOS="263"
+                    WIDTH="1187"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_830e2df4"
+                    TAGREFS="LT756"
+                    BASELINE="666 382 1847 377" 
+                    HPOS="663"
+                    VPOS="333"
+                    WIDTH="1184"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="666 382 666 403 1844 397 1847 377 1838 333 663 336 666 382"/></Shape>
+	    <String CONTENT="the Qing as deliverance from banditry and rebellion."
+                    HPOS="663"
+                    VPOS="333"
+                    WIDTH="1184"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c8546e04"
+                    TAGREFS="LT756"
+                    BASELINE="666 444 1853 438" 
+                    HPOS="663"
+                    VPOS="382"
+                    WIDTH="1190"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="666 444 666 464 1850 461 1853 438 1844 382 663 397 666 444"/></Shape>
+	    <String CONTENT="In October 1644 the Qing capital was transferred"
+                    HPOS="663"
+                    VPOS="382"
+                    WIDTH="1190"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1c9474b3"
+                    TAGREFS="LT756"
+                    BASELINE="666 505 915 505" 
+                    HPOS="666"
+                    VPOS="458"
+                    WIDTH="249"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="666 505 666 523 912 537 915 505 915 458 666 458 666 505"/></Shape>
+	    <String CONTENT="to Beijing."
+                    HPOS="666"
+                    VPOS="458"
+                    WIDTH="249"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4e47c74f"
+                    TAGREFS="LT756"
+                    BASELINE="724 567 1853 561" 
+                    HPOS="722"
+                    VPOS="511"
+                    WIDTH="1131"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="724 567 724 587 1850 581 1853 561 1847 517 722 511 724 567"/></Shape>
+	    <String CONTENT="The conquest of South China was much more"
+                    HPOS="722"
+                    VPOS="511"
+                    WIDTH="1131"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a7093489"
+                    TAGREFS="LT756"
+                    BASELINE="666 631 1853 622" 
+                    HPOS="663"
+                    VPOS="575"
+                    WIDTH="1190"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="666 631 666 657 1850 651 1853 622 1847 578 663 575 666 631"/></Shape>
+	    <String CONTENT="prolonged. The Ming government there had not"
+                    HPOS="663"
+                    VPOS="575"
+                    WIDTH="1190"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b52bdcf2"
+                    TAGREFS="LT756"
+                    BASELINE="663 689 1856 689" 
+                    HPOS="663"
+                    VPOS="634"
+                    WIDTH="1193"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="663 689 663 719 1856 713 1856 689 1856 643 663 634 663 689"/></Shape>
+	    <String CONTENT="been destroyed by rebellion. Several Ming loyalist"
+                    HPOS="663"
+                    VPOS="634"
+                    WIDTH="1193"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cdc1c14d"
+                    TAGREFS="LT756"
+                    BASELINE="660 754 1853 748" 
+                    HPOS="657"
+                    VPOS="692"
+                    WIDTH="1196"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="660 754 660 780 1850 780 1853 748 1844 692 657 698 660 754"/></Shape>
+	    <String CONTENT="regimes vied for succession, and one controlled parts"
+                    HPOS="657"
+                    VPOS="692"
+                    WIDTH="1196"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_14dd6bc6"
+                    TAGREFS="LT756"
+                    BASELINE="657 815 1847 815" 
+                    HPOS="657"
+                    VPOS="768"
+                    WIDTH="1190"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="657 815 657 838 1844 844 1847 815 1847 768 657 768 657 815"/></Shape>
+	    <String CONTENT="of southwest China for fifteen years. Zheng Cheng-"
+                    HPOS="657"
+                    VPOS="768"
+                    WIDTH="1190"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_782869c4"
+                    TAGREFS="LT756"
+                    BASELINE="660 879 1850 874" 
+                    HPOS="657"
+                    VPOS="830"
+                    WIDTH="1193"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="660 879 660 906 1847 903 1850 874 1841 830 657 833 660 879"/></Shape>
+	    <String CONTENT="gong (1624-1662), also known as Koxinga, led a"
+                    HPOS="657"
+                    VPOS="830"
+                    WIDTH="1193"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4b867f93"
+                    TAGREFS="LT756"
+                    BASELINE="657 938 1853 944" 
+                    HPOS="654"
+                    VPOS="888"
+                    WIDTH="1199"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="657 938 654 955 1847 967 1853 944 1850 894 657 888 657 938"/></Shape>
+	    <String CONTENT="sustained Ming loyalist movement on the southeast"
+                    HPOS="654"
+                    VPOS="888"
+                    WIDTH="1199"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_416c9098"
+                    TAGREFS="LT756"
+                    BASELINE="654 1005 1850 1005" 
+                    HPOS="654"
+                    VPOS="958"
+                    WIDTH="1196"
+                    HEIGHT="71">
+            <Shape><Polygon POINTS="654 1005 654 1026 1847 1029 1850 1005 1850 958 654 958 654 1005"/></Shape>
+	    <String CONTENT="coast and Taiwan. In 1673 Wu Sangui and two other"
+                    HPOS="654"
+                    VPOS="958"
+                    WIDTH="1196"
+                    HEIGHT="71"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_dd768a34"
+                    TAGREFS="LT756"
+                    BASELINE="654 1064 1841 1069" 
+                    HPOS="651"
+                    VPOS="1017"
+                    WIDTH="1190"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="654 1064 651 1084 1835 1090 1841 1069 1838 1023 654 1017 654 1064"/></Shape>
+	    <String CONTENT="Chinese generals, Shang Kexi and Geng Jimao, re¬"
+                    HPOS="651"
+                    VPOS="1017"
+                    WIDTH="1190"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5e8bb4fb"
+                    TAGREFS="LT756"
+                    BASELINE="654 1125 1844 1131" 
+                    HPOS="651"
+                    VPOS="1072"
+                    WIDTH="1193"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="654 1125 651 1143 1838 1160 1844 1131 1841 1081 654 1072 654 1125"/></Shape>
+	    <String CONTENT="belled and set up separatist regimes in the south."
+                    HPOS="651"
+                    VPOS="1072"
+                    WIDTH="1193"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_12dc9ea9"
+                    TAGREFS="LT756"
+                    BASELINE="657 1195 1850 1195" 
+                    HPOS="657"
+                    VPOS="1140"
+                    WIDTH="1193"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="657 1195 657 1219 1850 1219 1850 1195 1850 1148 657 1140 657 1195"/></Shape>
+	    <String CONTENT="This rebellion was quelled in 1681. Two years later"
+                    HPOS="657"
+                    VPOS="1140"
+                    WIDTH="1193"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ac3c20ea"
+                    TAGREFS="LT756"
+                    BASELINE="657 1254 1850 1262" 
+                    HPOS="654"
+                    VPOS="1198"
+                    WIDTH="1196"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="657 1254 654 1271 1844 1280 1850 1262 1847 1216 657 1198 657 1254"/></Shape>
+	    <String CONTENT="the Qing conquered Taiwan and defeated the last"
+                    HPOS="654"
+                    VPOS="1198"
+                    WIDTH="1196"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d1271dc0"
+                    TAGREFS="LT756"
+                    BASELINE="654 1318 1841 1324" 
+                    HPOS="651"
+                    VPOS="1259"
+                    WIDTH="1190"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="654 1318 651 1338 1835 1347 1841 1324 1838 1271 654 1259 654 1318"/></Shape>
+	    <String CONTENT="Ming resistance. [See also Li Zicheng; Zheng Cheng-"
+                    HPOS="651"
+                    VPOS="1259"
+                    WIDTH="1190"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_274daa08"
+                    TAGREFS="LT756"
+                    BASELINE="657 1388 1844 1388" 
+                    HPOS="657"
+                    VPOS="1335"
+                    WIDTH="1187"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="657 1388 657 1411 1844 1406 1844 1388 1844 1341 657 1335 657 1388"/></Shape>
+	    <String CONTENT="gong; Wu Sangui; Shang Kexi; and Three Feuda¬"
+                    HPOS="657"
+                    VPOS="1335"
+                    WIDTH="1187"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d4cd61eb"
+                    TAGREFS="LT756"
+                    BASELINE="654 1444 1067 1449" 
+                    HPOS="651"
+                    VPOS="1388"
+                    WIDTH="416"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="771 1391 742 1391 713 1391 684 1391 654 1388 654 1444 651 1470 1061 1476 1067 1449 1064 1397 789 1391 771 1391"/></Shape>
+	    <String CONTENT="tories Rebellion.]"
+                    HPOS="651"
+                    VPOS="1388"
+                    WIDTH="416"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_77e623e8"
+                    TAGREFS="LT756"
+                    BASELINE="701 1508 1847 1514" 
+                    HPOS="698"
+                    VPOS="1452"
+                    WIDTH="1149"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="701 1508 698 1534 1844 1534 1847 1514 1841 1452 701 1455 701 1508"/></Shape>
+	    <String CONTENT="Qing Government. The Qing dynasty became"
+                    HPOS="698"
+                    VPOS="1452"
+                    WIDTH="1149"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9c1c3dfe"
+                    TAGREFS="LT756"
+                    BASELINE="648 1569 1838 1581" 
+                    HPOS="646"
+                    VPOS="1514"
+                    WIDTH="1192"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="648 1569 646 1593 1832 1601 1838 1581 1835 1534 648 1514 648 1569"/></Shape>
+	    <String CONTENT="more sinicized under the Shunzhi emperor (r. 1644-"
+                    HPOS="646"
+                    VPOS="1514"
+                    WIDTH="1192"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_43158de4"
+                    TAGREFS="LT756"
+                    BASELINE="651 1634 1847 1642" 
+                    HPOS="648"
+                    VPOS="1578"
+                    WIDTH="1199"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="651 1634 648 1654 1841 1663 1847 1642 1844 1596 651 1578 651 1634"/></Shape>
+	    <String CONTENT="1661). The first Manchu monarch to master the"
+                    HPOS="648"
+                    VPOS="1578"
+                    WIDTH="1199"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e5620ab7"
+                    TAGREFS="LT756"
+                    BASELINE="648 1695 1838 1713" 
+                    HPOS="646"
+                    VPOS="1645"
+                    WIDTH="1192"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="648 1695 646 1713 1832 1736 1838 1713 1835 1663 648 1645 648 1695"/></Shape>
+	    <String CONTENT="Chinese language, he revived the Hanlin Academy,"
+                    HPOS="646"
+                    VPOS="1645"
+                    WIDTH="1192"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7de738ef"
+                    TAGREFS="LT756"
+                    BASELINE="646 1762 1841 1768" 
+                    HPOS="643"
+                    VPOS="1707"
+                    WIDTH="1198"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="646 1762 643 1780 1835 1789 1841 1768 1838 1718 646 1707 646 1762"/></Shape>
+	    <String CONTENT="a stronghold of Confucian scholarship and ortho¬"
+                    HPOS="643"
+                    VPOS="1707"
+                    WIDTH="1198"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fa119780"
+                    TAGREFS="LT756"
+                    BASELINE="646 1824 1844 1832" 
+                    HPOS="643"
+                    VPOS="1777"
+                    WIDTH="1201"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="646 1824 643 1844 1838 1856 1844 1832 1838 1777 646 1777 646 1824"/></Shape>
+	    <String CONTENT="doxy, and relied greatly on Chinese officials and"
+                    HPOS="643"
+                    VPOS="1777"
+                    WIDTH="1201"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a46de017"
+                    TAGREFS="LT756"
+                    BASELINE="640 1891 1838 1897" 
+                    HPOS="637"
+                    VPOS="1838"
+                    WIDTH="1201"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="640 1891 637 1908 1832 1923 1838 1897 1832 1838 640 1841 640 1891"/></Shape>
+	    <String CONTENT="eunuchs. The pendulum swung back toward Man¬"
+                    HPOS="637"
+                    VPOS="1838"
+                    WIDTH="1201"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_98bf2dc7"
+                    TAGREFS="LT756"
+                    BASELINE="643 1952 1844 1961" 
+                    HPOS="640"
+                    VPOS="1906"
+                    WIDTH="1204"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="643 1952 640 1970 1838 1982 1844 1961 1841 1914 643 1906 643 1952"/></Shape>
+	    <String CONTENT="chu control upon his death. His seven-year-old son"
+                    HPOS="640"
+                    VPOS="1906"
+                    WIDTH="1204"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9c8e20c3"
+                    TAGREFS="LT756"
+                    BASELINE="640 2017 1835 2025" 
+                    HPOS="637"
+                    VPOS="1970"
+                    WIDTH="1198"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="640 2017 637 2034 1830 2043 1835 2025 1832 1979 640 1970 640 2017"/></Shape>
+	    <String CONTENT="was chosen to rule as the Kangxi emperor (r. 1661-"
+                    HPOS="637"
+                    VPOS="1970"
+                    WIDTH="1198"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a0515864"
+                    TAGREFS="LT756"
+                    BASELINE="643 2081 1832 2096" 
+                    HPOS="640"
+                    VPOS="2028"
+                    WIDTH="1192"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="643 2081 640 2096 1827 2119 1832 2096 1830 2046 643 2028 643 2081"/></Shape>
+	    <String CONTENT="1722), aided by a regency of four Manchu princes."
+                    HPOS="640"
+                    VPOS="2028"
+                    WIDTH="1192"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4f9b0afa"
+                    TAGREFS="LT756"
+                    BASELINE="637 2142 1841 2157" 
+                    HPOS="634"
+                    VPOS="2093"
+                    WIDTH="1207"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="637 2142 634 2160 1835 2177 1841 2157 1841 2107 637 2093 637 2142"/></Shape>
+	    <String CONTENT="After Kangxi assumed personal power in 1669, he"
+                    HPOS="634"
+                    VPOS="2093"
+                    WIDTH="1207"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d2bb5d73"
+                    TAGREFS="LT756"
+                    BASELINE="634 2210 1844 2221" 
+                    HPOS="631"
+                    VPOS="2160"
+                    WIDTH="1213"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="634 2210 631 2227 1838 2248 1844 2221 1844 2172 634 2160 634 2210"/></Shape>
+	    <String CONTENT="institutionalized the privileged position of Manchus"
+                    HPOS="631"
+                    VPOS="2160"
+                    WIDTH="1213"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9b13a753"
+                    TAGREFS="LT756"
+                    BASELINE="631 2274 1838 2288" 
+                    HPOS="628"
+                    VPOS="2224"
+                    WIDTH="1210"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="631 2274 628 2294 1832 2303 1838 2288 1835 2239 631 2224 631 2274"/></Shape>
+	    <String CONTENT="by reserving for them top positions in the bureau¬"
+                    HPOS="628"
+                    VPOS="2224"
+                    WIDTH="1210"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aa343b18"
+                    TAGREFS="LT756"
+                    BASELINE="631 2338 1844 2353" 
+                    HPOS="628"
+                    VPOS="2286"
+                    WIDTH="1216"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="631 2338 628 2353 1838 2373 1844 2353 1841 2300 631 2286 631 2338"/></Shape>
+	    <String CONTENT="cracy. Each of the Six Boards had one Chinese and"
+                    HPOS="628"
+                    VPOS="2286"
+                    WIDTH="1216"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1661c449"
+                    TAGREFS="LT756"
+                    BASELINE="628 2402 1838 2417" 
+                    HPOS="625"
+                    VPOS="2353"
+                    WIDTH="1213"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="625 2417 1832 2440 1838 2417 1835 2367 628 2353 628 2402"/></Shape>
+	    <String CONTENT="one Manchu minister: only half of the grand sec¬"
+                    HPOS="625"
+                    VPOS="2353"
+                    WIDTH="1213"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3ea34511"
+                    TAGREFS="LT756"
+                    BASELINE="631 2470 1844 2484" 
+                    HPOS="628"
+                    VPOS="2417"
+                    WIDTH="1216"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="631 2470 628 2487 1838 2499 1844 2484 1841 2432 631 2417 631 2470"/></Shape>
+	    <String CONTENT="retaries were Chinese. Although Chinese were often"
+                    HPOS="628"
+                    VPOS="2417"
+                    WIDTH="1216"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_70aec450"
+                    TAGREFS="LT756"
+                    BASELINE="631 2540 1847 2549" 
+                    HPOS="628"
+                    VPOS="2476"
+                    WIDTH="1219"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="631 2540 628 2554 1841 2563 1847 2549 1844 2490 631 2476 631 2540"/></Shape>
+	    <String CONTENT="appointed provincial governors and filled almost all"
+                    HPOS="628"
+                    VPOS="2476"
+                    WIDTH="1219"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_77619c88"
+                    TAGREFS="LT756"
+                    BASELINE="622 2601 1841 2616" 
+                    HPOS="619"
+                    VPOS="2540"
+                    WIDTH="1222"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="768 2543 739 2543 710 2543 681 2543 651 2543 648 2540 622 2540 622 2601 619 2616 1835 2636 1841 2616 1838 2563 774 2543 768 2543"/></Shape>
+	    <String CONTENT="lower positions, they were generally supervised by"
+                    HPOS="619"
+                    VPOS="2540"
+                    WIDTH="1222"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_53c0241c"
+                    TAGREFS="LT756"
+                    BASELINE="622 2669 1844 2680" 
+                    HPOS="619"
+                    VPOS="2616"
+                    WIDTH="1225"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="622 2669 619 2683 1838 2707 1844 2680 1841 2631 622 2616 622 2669"/></Shape>
+	    <String CONTENT="Manchu, Mongol, or Chinese bannermen serving as"
+                    HPOS="619"
+                    VPOS="2616"
+                    WIDTH="1225"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3e349917"
+                    TAGREFS="LT756"
+                    BASELINE="622 2745 1736 2745" 
+                    HPOS="622"
+                    VPOS="2686"
+                    WIDTH="1114"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="622 2745 622 2774 1736 2774 1736 2745 1733 2686 622 2686 622 2745"/></Shape>
+	    <String CONTENT="governors-general. [Seee also Kangxi Emperor.]"
+                    HPOS="622"
+                    VPOS="2686"
+                    WIDTH="1114"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ca2c03af"
+                    TAGREFS="LT756"
+                    BASELINE="678 2806 1850 2818" 
+                    HPOS="675"
+                    VPOS="2747"
+                    WIDTH="1175"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="1087 2747 1058 2747 1029 2747 999 2747 970 2747 941 2747 912 2747 882 2747 853 2747 824 2747 795 2747 765 2747 736 2747 707 2747 678 2747 678 2806 675 2821 1844 2838 1850 2818 1847 2762 1116 2747 1087 2747"/></Shape>
+	    <String CONTENT="Qing government followed Ming administrative"
+                    HPOS="675"
+                    VPOS="2747"
+                    WIDTH="1175"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5998aa6a"
+                    TAGREFS="LT756"
+                    BASELINE="619 2873 1844 2882" 
+                    HPOS="616"
+                    VPOS="2821"
+                    WIDTH="1228"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="619 2873 616 2897 1838 2905 1844 2882 1841 2821 619 2821 619 2873"/></Shape>
+	    <String CONTENT="practices, with some minor modifications. Each of"
+                    HPOS="616"
+                    VPOS="2821"
+                    WIDTH="1228"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f0d19ff4"
+                    TAGREFS="LT756"
+                    BASELINE="619 2937 1844 2946" 
+                    HPOS="616"
+                    VPOS="2888"
+                    WIDTH="1228"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="619 2937 616 2955 1838 2967 1844 2946 1844 2897 619 2888 619 2937"/></Shape>
+	    <String CONTENT="the eighteen provinces was administered by a gov¬"
+                    HPOS="616"
+                    VPOS="2888"
+                    WIDTH="1228"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_20f9e2cf"
+                    TAGREFS="LT756"
+                    BASELINE="616 3005 1841 3019" 
+                    HPOS="613"
+                    VPOS="2955"
+                    WIDTH="1228"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="616 3005 613 3019 1835 3046 1841 3019 1838 2970 616 2955 616 3005"/></Shape>
+	    <String CONTENT="ernor. He was supervised by a governor-general,"
+                    HPOS="613"
+                    VPOS="2955"
+                    WIDTH="1228"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9087badb"
+                    TAGREFS="LT756"
+                    BASELINE="612 3070 1863 3075" 
+                    HPOS="608"
+                    VPOS="3016"
+                    WIDTH="1254"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="610 3069 608 3089 675 3107 678 3107 1859 3092 1862 3072 1859 3028 610 3016 610 3069"/></Shape>
+	    <String CONTENT="who usually oversaw two provinces. Below the pro¬"
+                    HPOS="608"
+                    VPOS="3016"
+                    WIDTH="1254"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e3cc6a13"
+                    TAGREFS="LT756"
+                    BASELINE="613 3136 1841 3154" 
+                    HPOS="610"
+                    VPOS="3084"
+                    WIDTH="1231"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="613 3136 610 3160 1835 3177 1841 3154 1841 3095 613 3084 613 3136"/></Shape>
+	    <String CONTENT="vincial administration was a hierarchy of circuits,"
+                    HPOS="610"
+                    VPOS="3084"
+                    WIDTH="1231"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_235173ec"
+                    TAGREFS="LT756"
+                    BASELINE="610 3209 1847 3221" 
+                    HPOS="608"
+                    VPOS="3145"
+                    WIDTH="1239"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="610 3209 608 3233 1841 3244 1847 3221 1844 3168 610 3145 610 3209"/></Shape>
+	    <String CONTENT="prefectures, and districts. The district magistrate,"
+                    HPOS="608"
+                    VPOS="3145"
+                    WIDTH="1239"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7da03580"
+                    TAGREFS="LT756"
+                    BASELINE="610 3274 1844 3288" 
+                    HPOS="608"
+                    VPOS="3221"
+                    WIDTH="1236"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="610 3274 608 3288 1838 3309 1844 3288 1844 3236 610 3221 610 3274"/></Shape>
+	    <String CONTENT="representing the lowest level of formal government,"
+                    HPOS="608"
+                    VPOS="3221"
+                    WIDTH="1236"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8d470153"
+                    TAGREFS="LT756"
+                    BASELINE="613 3341 1844 3355" 
+                    HPOS="610"
+                    VPOS="3285"
+                    WIDTH="1234"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="613 3341 610 3358 1838 3385 1844 3355 1841 3300 613 3285 613 3341"/></Shape>
+	    <String CONTENT="was aided in his duties by local gentry, mostly degree"
+                    HPOS="610"
+                    VPOS="3285"
+                    WIDTH="1234"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bcc668dc"
+                    TAGREFS="LT756"
+                    BASELINE="610 3405 1245 3414" 
+                    HPOS="608"
+                    VPOS="3350"
+                    WIDTH="637"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="610 3405 608 3429 1239 3437 1245 3414 1242 3358 610 3350 610 3405"/></Shape>
+	    <String CONTENT="holders and their families."
+                    HPOS="608"
+                    VPOS="3350"
+                    WIDTH="637"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="608"
+                   VPOS="23"
+                   WIDTH="1271"
+                   HEIGHT="3423"
+                   ID="eSc_textblock_c6ba5662"
+                   TAGREFS="BT1861">
+          <Shape><Polygon POINTS="1856 23 1879 58 1844 3388 1333 3399 1213 3446 608 3423 643 596 666 35 713 23"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

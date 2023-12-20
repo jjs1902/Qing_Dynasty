@@ -1,0 +1,1919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>IMG_2555_2TTO4Od.pdf_page_1.png</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT1861" LABEL="Main Zone" DESCRIPTION="block type Main Zone"/><OtherTag ID="BT1881" LABEL="Title Zone" DESCRIPTION="block type Title Zone"/><OtherTag ID="BT1882" LABEL="Numbering Zone" DESCRIPTION="block type Numbering Zone"/><OtherTag ID="BT1883" LABEL="Author Zone" DESCRIPTION="block type Author Zone"/>
+    <OtherTag ID="LT2" LABEL="Numbering" DESCRIPTION="line type Numbering"/><OtherTag ID="LT755" LABEL="Title" DESCRIPTION="line type Title"/><OtherTag ID="LT756" LABEL="Default line" DESCRIPTION="line type Default line"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="2479"
+          HEIGHT="3508"
+          PHYSICAL_IMG_NR="3"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2479"
+                  HEIGHT="3508">
+        
+        <TextBlock HPOS="0"
+                   VPOS="99"
+                   WIDTH="1248"
+                   HEIGHT="3370"
+                   ID="eSc_textblock_24878cdf"
+                   TAGREFS="BT1861">
+          <Shape><Polygon POINTS="1208 2361 1213 2733 1248 2815 1236 3341 1166 3458 7 3469 0 3004 2 2876 23 2467 13 2385 11 2230 11 1496 6 1396 11 1341 0 812 0 467 0 391 0 222 19 111 250 99 1206 117 1224 2271"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_09d72ec4"
+                    TAGREFS="LT756"
+                    BASELINE="20 169 637 169 1171 192" 
+                    HPOS="14"
+                    VPOS="111"
+                    WIDTH="1155"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="1157 137 1128 137 1099 137 1069 137 1040 134 1011 134 982 134 953 134 923 131 894 131 865 131 836 131 806 128 777 128 748 128 719 128 689 125 660 125 631 125 602 125 572 122 543 122 514 122 485 122 456 119 426 119 397 119 368 119 339 116 309 116 280 116 251 116 222 116 192 116 163 119 134 122 105 122 76 125 46 143 38 111 17 111 17 166 14 187 1163 213 1169 190 1169 137 1157 137"/></Shape>
+	    <String CONTENT="and administrative deterioration, and it hastened the"
+                    HPOS="14"
+                    VPOS="111"
+                    WIDTH="1155"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_be387ac0"
+                    TAGREFS="LT756"
+                    BASELINE="11 230 646 230 1166 251" 
+                    HPOS="5"
+                    VPOS="169"
+                    WIDTH="1158"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="301 169 271 169 242 169 213 169 184 169 169 169 29 175 8 201 8 228 5 251 1157 268 1163 248 1160 195 318 169 301 169"/></Shape>
+	    <String CONTENT="fiscal and military decline ot the dynasty. As a result,"
+                    HPOS="5"
+                    VPOS="169"
+                    WIDTH="1158"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ffeac290"
+                    TAGREFS="LT756"
+                    BASELINE="14 289 523 289 1167 312" 
+                    HPOS="8"
+                    VPOS="230"
+                    WIDTH="1158"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="420 230 391 230 362 230 333 230 304 230 274 230 248 230 35 233 14 257 11 286 8 309 762 312 806 330 812 333 815 333 818 333 830 333 885 321 1160 339 1166 309 1166 260 438 230 420 230"/></Shape>
+	    <String CONTENT="the Qing was already weakened when challenged by"
+                    HPOS="8"
+                    VPOS="230"
+                    WIDTH="1158"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_05d69d43"
+                    TAGREFS="LT756"
+                    BASELINE="11 350 499 342" 
+                    HPOS="5"
+                    VPOS="298"
+                    WIDTH="491"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="8 347 8 374 496 359 496 339 488 298 5 304 8 347"/></Shape>
+	    <String CONTENT="te Western powers."
+                    HPOS="5"
+                    VPOS="298"
+                    WIDTH="491"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_32c54ecb"
+                    TAGREFS="LT756"
+                    BASELINE="58 412 529 409 1167 435" 
+                    HPOS="52"
+                    VPOS="347"
+                    WIDTH="1114"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="55 409 52 420 1160 453 1166 432 1166 380 450 347 447 347 55 350 55 409"/></Shape>
+	    <String CONTENT="Relations with the West. Until the nineteenth"
+                    HPOS="52"
+                    VPOS="347"
+                    WIDTH="1114"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_814d6673"
+                    TAGREFS="LT756"
+                    BASELINE="8 473 1166 491" 
+                    HPOS="5"
+                    VPOS="412"
+                    WIDTH="1161"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="713 418 707 418 704 418 701 418 657 432 651 432 643 432 546 415 543 415 540 415 537 415 520 429 517 429 514 429 385 412 382 412 14 420 8 447 8 473 5 488 17 499 20 499 23 499 26 499 339 491 388 491 1160 514 1166 491 1166 441 762 420 739 420"/></Shape>
+	    <String CONTENT="century, Sino-Western contact posed little threat to"
+                    HPOS="5"
+                    VPOS="412"
+                    WIDTH="1161"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_44045bb1"
+                    TAGREFS="LT756"
+                    BASELINE="14 534 1167 549" 
+                    HPOS="8"
+                    VPOS="479"
+                    WIDTH="1158"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="830 485 800 485 771 482 768 482 742 482 713 482 684 482 654 482 625 482 596 482 575 479 11 482 11 532 8 555 698 555 1160 575 1166 546 1163 499 833 485 830 485"/></Shape>
+	    <String CONTENT="te Qing. As it expanded into Inner Asia, the Qing"
+                    HPOS="8"
+                    VPOS="479"
+                    WIDTH="1158"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b47c79d4"
+                    TAGREFS="LT756"
+                    BASELINE="11 599 578 596 1166 613" 
+                    HPOS="8"
+                    VPOS="543"
+                    WIDTH="1158"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="14 555 11 599 8 619 1160 634 1166 613 1163 561 32 543 14 555"/></Shape>
+	    <String CONTENT="met Russian continental expansion; after some mi¬"
+                    HPOS="8"
+                    VPOS="543"
+                    WIDTH="1158"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_052311ca"
+                    TAGREFS="LT756"
+                    BASELINE="11 657 537 657 1166 678" 
+                    HPOS="8"
+                    VPOS="599"
+                    WIDTH="1158"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="391 599 362 599 333 599 304 599 274 599 245 599 216 599 187 599 157 599 128 599 119 599 35 602 11 625 11 657 8 678 1160 698 1166 678 1163 625 397 599 391 599"/></Shape>
+	    <String CONTENT="nor conflicts, however, the two empires signed the"
+                    HPOS="8"
+                    VPOS="599"
+                    WIDTH="1158"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f22a27d4"
+                    TAGREFS="LT756"
+                    BASELINE="14 722 505 719 1169 739" 
+                    HPOS="11"
+                    VPOS="660"
+                    WIDTH="1158"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="657 663 628 663 605 660 587 660 570 660 540 660 511 660 482 660 453 660 423 660 394 660 365 660 336 660 306 660 277 660 260 660 14 660 14 663 14 722 11 742 1163 760 1169 739 1166 684 660 663 657 663"/></Shape>
+	    <String CONTENT="treaties of Nerchinsk (1689) and Kiakhta (1727) to"
+                    HPOS="11"
+                    VPOS="660"
+                    WIDTH="1158"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0fb73cb2"
+                    TAGREFS="LT756"
+                    BASELINE="17 783 907 786" 
+                    HPOS="11"
+                    VPOS="730"
+                    WIDTH="895"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="14 780 11 809 900 812 906 783 903 733 14 730 14 780"/></Shape>
+	    <String CONTENT="regulate trade and define their borders."
+                    HPOS="11"
+                    VPOS="730"
+                    WIDTH="895"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_6287335a"
+                    TAGREFS="LT756"
+                    BASELINE="67 838 1177 859" 
+                    HPOS="61"
+                    VPOS="783"
+                    WIDTH="1114"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="385 783 356 783 327 783 298 783 274 783 64 786 64 836 61 853 1169 874 1175 856 1172 809 926 792 923 792 920 792 882 803 877 803 871 803 833 789 830 789 827 789 748 800 736 800 733 800 704 786 701 786 698 786 479 795 458 795 453 795 397 783 385 783"/></Shape>
+	    <String CONTENT="Western maritime trade with China began early"
+                    HPOS="61"
+                    VPOS="783"
+                    WIDTH="1114"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_966e3df2"
+                    TAGREFS="LT756"
+                    BASELINE="17 906 1169 920" 
+                    HPOS="11"
+                    VPOS="850"
+                    WIDTH="1155"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="14 903 11 923 1160 935 1166 917 1166 868 14 850 14 903"/></Shape>
+	    <String CONTENT="in the sixteenth century with the arrival ot Portu¬"
+                    HPOS="11"
+                    VPOS="850"
+                    WIDTH="1155"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1e9f68b3"
+                    TAGREFS="LT756"
+                    BASELINE="17 967 1180 982" 
+                    HPOS="11"
+                    VPOS="909"
+                    WIDTH="1167"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="950 917 944 915 897 915 891 915 862 915 833 915 812 915 739 923 722 923 716 923 684 912 657 912 637 912 537 920 517 920 514 920 496 912 482 912 453 909 423 909 394 909 365 909 336 909 321 909 14 912 14 964 11 991 1172 1002 1178 979 1175 929 953 917 950 917"/></Shape>
+	    <String CONTENT="guese and Dutch ships on the southeast coast. By"
+                    HPOS="11"
+                    VPOS="909"
+                    WIDTH="1167"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_43699571"
+                    TAGREFS="LT756"
+                    BASELINE="23 1031 1175 1043" 
+                    HPOS="20"
+                    VPOS="976"
+                    WIDTH="1155"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="23 1031 20 1049 1169 1067 1175 1043 1175 988 23 976 23 1031"/></Shape>
+	    <String CONTENT="1760 the Qing government had restricted Western"
+                    HPOS="20"
+                    VPOS="976"
+                    WIDTH="1155"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_05fc265a"
+                    TAGREFS="LT756"
+                    BASELINE="11 1090 1175 1107" 
+                    HPOS="8"
+                    VPOS="1037"
+                    WIDTH="1167"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="11 1090 8 1113 1169 1128 1175 1107 1175 1058 11 1037 11 1090"/></Shape>
+	    <String CONTENT="maritime trade to Canton (Guangzhou). European"
+                    HPOS="8"
+                    VPOS="1037"
+                    WIDTH="1167"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_36f9aac8"
+                    TAGREFS="LT756"
+                    BASELINE="11 1154 1172 1169" 
+                    HPOS="8"
+                    VPOS="1102"
+                    WIDTH="1164"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="11 1154 8 1169 1166 1192 1172 1169 1169 1116 11 1102 11 1154"/></Shape>
+	    <String CONTENT="merchants were permitted only seasonal residence"
+                    HPOS="8"
+                    VPOS="1102"
+                    WIDTH="1164"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_facca69c"
+                    TAGREFS="LT756"
+                    BASELINE="14 1219 1169 1230" 
+                    HPOS="11"
+                    VPOS="1157"
+                    WIDTH="1158"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="14 1219 11 1242 1163 1248 1169 1230 1166 1178 14 1157 14 1219"/></Shape>
+	    <String CONTENT="in Canton and allowed to trade only with the Co¬"
+                    HPOS="11"
+                    VPOS="1157"
+                    WIDTH="1158"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_346f9189"
+                    TAGREFS="LT756"
+                    BASELINE="20 1280 1172 1295" 
+                    HPOS="17"
+                    VPOS="1221"
+                    WIDTH="1155"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="137 1221 108 1221 78 1221 49 1221 20 1221 20 1280 17 1303 1166 1315 1172 1295 1169 1242 163 1221 137 1221"/></Shape>
+	    <String CONTENT="hong, a government-chartered merchant guild. [See"
+                    HPOS="17"
+                    VPOS="1221"
+                    WIDTH="1155"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c9f31bd6"
+                    TAGREFS="LT756"
+                    BASELINE="18 1341 240 1336" 
+                    HPOS="14"
+                    VPOS="1292"
+                    WIDTH="225"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="17 1338 17 1368 239 1359 239 1335 233 1292 14 1292 17 1338"/></Shape>
+	    <String CONTENT="Cohong.]"
+                    HPOS="14"
+                    VPOS="1292"
+                    WIDTH="225"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d99c0aac"
+                    TAGREFS="LT756"
+                    BASELINE="64 1406 1172 1420" 
+                    HPOS="61"
+                    VPOS="1350"
+                    WIDTH="1111"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="64 1406 61 1426 1166 1441 1172 1420 1169 1365 64 1350 64 1406"/></Shape>
+	    <String CONTENT="Great Britain emerged as China’s major Western"
+                    HPOS="61"
+                    VPOS="1350"
+                    WIDTH="1111"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_964295e3"
+                    TAGREFS="LT756"
+                    BASELINE="25 1473 1175 1482" 
+                    HPOS="20"
+                    VPOS="1420"
+                    WIDTH="1152"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="23 1449 23 1470 20 1493 1166 1496 1172 1479 1172 1429 29 1420 23 1449"/></Shape>
+	    <String CONTENT="trading partner. The tea trade, monopolized by the"
+                    HPOS="20"
+                    VPOS="1420"
+                    WIDTH="1152"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3a953729"
+                    TAGREFS="LT756"
+                    BASELINE="14 1534 1178 1540" 
+                    HPOS="11"
+                    VPOS="1476"
+                    WIDTH="1167"
+                    HEIGHT="87">
+            <Shape><Polygon POINTS="14 1482 14 1534 11 1558 1172 1563 1178 1540 1175 1487 14 1476 14 1482"/></Shape>
+	    <String CONTENT="East India Company, became an important source"
+                    HPOS="11"
+                    VPOS="1476"
+                    WIDTH="1167"
+                    HEIGHT="87"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_02b937ed"
+                    TAGREFS="LT756"
+                    BASELINE="20 1593 1178 1601" 
+                    HPOS="17"
+                    VPOS="1543"
+                    WIDTH="1161"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="20 1593 17 1610 1172 1619 1178 1601 1175 1552 20 1543 20 1593"/></Shape>
+	    <String CONTENT="of British revenue. In order to improve Britain&#39;s un¬"
+                    HPOS="17"
+                    VPOS="1543"
+                    WIDTH="1161"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4ac56372"
+                    TAGREFS="LT756"
+                    BASELINE="26 1660 1175 1663" 
+                    HPOS="23"
+                    VPOS="1599"
+                    WIDTH="1152"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="26 1660 23 1677 1169 1689 1175 1663 1172 1613 26 1599 26 1660"/></Shape>
+	    <String CONTENT="favorable balance of payments, the East India Com¬"
+                    HPOS="23"
+                    VPOS="1599"
+                    WIDTH="1152"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8f930717"
+                    TAGREFS="LT756"
+                    BASELINE="25 1721 1178 1721" 
+                    HPOS="23"
+                    VPOS="1677"
+                    WIDTH="1152"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="23 1718 23 1753 1175 1753 1175 1718 1175 1677 23 1677 23 1718"/></Shape>
+	    <String CONTENT="my began to grow opium in India and sell it to"
+                    HPOS="23"
+                    VPOS="1677"
+                    WIDTH="1152"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5cd72a3c"
+                    TAGREFS="LT756"
+                    BASELINE="34 1789 1183 1789" 
+                    HPOS="32"
+                    VPOS="1736"
+                    WIDTH="1149"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="32 1786 32 1815 1181 1815 1181 1786 1181 1736 32 1736 32 1786"/></Shape>
+	    <String CONTENT="private traders who smuggled it into China. British"
+                    HPOS="32"
+                    VPOS="1736"
+                    WIDTH="1149"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_74d12cc5"
+                    TAGREFS="LT756"
+                    BASELINE="25 1853 1178 1847" 
+                    HPOS="20"
+                    VPOS="1789"
+                    WIDTH="1155"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="868 1789 839 1789 809 1789 780 1789 751 1789 722 1789 692 1789 663 1789 634 1789 605 1789 575 1789 546 1789 517 1789 488 1789 479 1789 20 1800 23 1850 23 1868 1169 1870 1175 1844 1169 1797 868 1789 868 1789"/></Shape>
+	    <String CONTENT="opium trade with China doubled in the 1830s. The"
+                    HPOS="20"
+                    VPOS="1789"
+                    WIDTH="1155"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9d08bdb5"
+                    TAGREFS="LT756"
+                    BASELINE="22 1903 1195 1914" 
+                    HPOS="17"
+                    VPOS="1856"
+                    WIDTH="1175"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="283 1873 254 1868 225 1862 210 1856 20 1856 20 1900 17 1923 1186 1929 1192 1911 1192 1868 298 1856 283 1873"/></Shape>
+	    <String CONTENT="opium trade was illegal—China outlawed opium, a"
+                    HPOS="17"
+                    VPOS="1856"
+                    WIDTH="1175"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_78087532"
+                    TAGREFS="LT756"
+                    BASELINE="29 1973 1175 1973" 
+                    HPOS="29"
+                    VPOS="1923"
+                    WIDTH="1146"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="29 1973 29 2002 1175 2002 1175 1973 1175 1923 29 1923 29 1973"/></Shape>
+	    <String CONTENT="severely addictive and debilitating drug, in 1729."
+                    HPOS="29"
+                    VPOS="1923"
+                    WIDTH="1146"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0c3e7598"
+                    TAGREFS="LT756"
+                    BASELINE="23 2040 1183 2028" 
+                    HPOS="20"
+                    VPOS="1979"
+                    WIDTH="1163"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="23 2040 23 2060 1181 2049 1183 2028 1175 1979 20 1982 23 2040"/></Shape>
+	    <String CONTENT="Moreover, the opium trade reversed te trade bal¬"
+                    HPOS="20"
+                    VPOS="1979"
+                    WIDTH="1163"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8cfd0175"
+                    TAGREFS="LT756"
+                    BASELINE="17 2098 1186 2093" 
+                    HPOS="14"
+                    VPOS="2043"
+                    WIDTH="1172"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="17 2098 17 2119 1181 2122 1186 2093 1178 2043 14 2046 17 2098"/></Shape>
+	    <String CONTENT="ance, disrupting the Chinese economy. The Qing"
+                    HPOS="14"
+                    VPOS="2043"
+                    WIDTH="1172"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_cfa9f463"
+                    TAGREFS="LT756"
+                    BASELINE="29 2166 1186 2154" 
+                    HPOS="26"
+                    VPOS="2107"
+                    WIDTH="1160"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="29 2166 29 2195 1183 2183 1186 2154 1178 2107 26 2110 29 2166"/></Shape>
+	    <String CONTENT="government in 1838 dispatched Commissioner Lin"
+                    HPOS="26"
+                    VPOS="2107"
+                    WIDTH="1160"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7018097b"
+                    TAGREFS="LT756"
+                    BASELINE="20 2227 1189 2218" 
+                    HPOS="17"
+                    VPOS="2169"
+                    WIDTH="1172"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="20 2227 20 2250 1186 2245 1189 2218 1183 2172 17 2169 20 2227"/></Shape>
+	    <String CONTENT="Zexu to Canton to suppress the opium trade. British"
+                    HPOS="17"
+                    VPOS="2169"
+                    WIDTH="1172"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_36fc4a37"
+                    TAGREFS="LT756"
+                    BASELINE="28 2294 1200 2274" 
+                    HPOS="26"
+                    VPOS="2227"
+                    WIDTH="1172"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="26 2262 26 2291 26 2309 1195 2291 1198 2271 1189 2227 43 2233 26 2262"/></Shape>
+	    <String CONTENT="resistance sparked the Opium War (1839-1842)."
+                    HPOS="26"
+                    VPOS="2227"
+                    WIDTH="1172"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d8247afa"
+                    TAGREFS="LT756"
+                    BASELINE="36 2353 811 2344" 
+                    HPOS="32"
+                    VPOS="2297"
+                    WIDTH="777"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="32 2321 35 2350 35 2385 809 2373 809 2341 800 2297 49 2300 32 2321"/></Shape>
+	    <String CONTENT="[See Lin Zexu and China Trade.]"
+                    HPOS="32"
+                    VPOS="2297"
+                    WIDTH="777"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_080e5aa0"
+                    TAGREFS="LT756"
+                    BASELINE="76 2414 1183 2405" 
+                    HPOS="73"
+                    VPOS="2356"
+                    WIDTH="1110"
+                    HEIGHT="84">
+            <Shape><Polygon POINTS="76 2414 76 2440 1181 2435 1183 2405 1178 2359 73 2356 76 2414"/></Shape>
+	    <String CONTENT="The Treaty System. After three years of warfare,"
+                    HPOS="73"
+                    VPOS="2356"
+                    WIDTH="1110"
+                    HEIGHT="84"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3f6600b7"
+                    TAGREFS="LT756"
+                    BASELINE="29 2481 1192 2467" 
+                    HPOS="26"
+                    VPOS="2420"
+                    WIDTH="1166"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="26 2449 29 2481 29 2496 1189 2493 1192 2467 1183 2420 32 2429 26 2449"/></Shape>
+	    <String CONTENT="China sued for peace and was forced to sign the"
+                    HPOS="26"
+                    VPOS="2420"
+                    WIDTH="1166"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e021a266"
+                    TAGREFS="LT756"
+                    BASELINE="27 2543 1192 2528" 
+                    HPOS="23"
+                    VPOS="2478"
+                    WIDTH="1166"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="23 2490 26 2540 26 2575 1189 2546 1189 2525 1181 2478 38 2481 23 2490"/></Shape>
+	    <String CONTENT="Treaty of Nanjing in 1842. The treaty opened five"
+                    HPOS="23"
+                    VPOS="2478"
+                    WIDTH="1166"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_952f8bea"
+                    TAGREFS="LT756"
+                    BASELINE="27 2610 1200 2589" 
+                    HPOS="23"
+                    VPOS="2543"
+                    WIDTH="1175"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="26 2607 26 2639 1195 2610 1198 2587 1189 2543 23 2560 26 2607"/></Shape>
+	    <String CONTENT="ports to British trade and gave British subjects ex¬"
+                    HPOS="23"
+                    VPOS="2543"
+                    WIDTH="1175"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0303adcd"
+                    TAGREFS="LT756"
+                    BASELINE="29 2674 1195 2654" 
+                    HPOS="23"
+                    VPOS="2604"
+                    WIDTH="1169"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="26 2671 26 2692 1192 2674 1192 2651 1183 2604 23 2625 26 2671"/></Shape>
+	    <String CONTENT="traterritorial privileges in China. In addition, China"
+                    HPOS="23"
+                    VPOS="2604"
+                    WIDTH="1169"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aa5cc91f"
+                    TAGREFS="LT756"
+                    BASELINE="33 2739 1205 2721" 
+                    HPOS="29"
+                    VPOS="2663"
+                    WIDTH="1175"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="32 2736 32 2765 1204 2742 1204 2718 1195 2663 29 2686 32 2736"/></Shape>
+	    <String CONTENT="was required to pay an indemnity and cede the island"
+                    HPOS="29"
+                    VPOS="2663"
+                    WIDTH="1175"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_419215f5"
+                    TAGREFS="LT756"
+                    BASELINE="28 2800 924 2788" 
+                    HPOS="23"
+                    VPOS="2736"
+                    WIDTH="900"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="26 2797 26 2818 923 2806 923 2785 915 2736 23 2747 26 2797"/></Shape>
+	    <String CONTENT="of Hong Kong (Xianggang) to Britain."
+                    HPOS="23"
+                    VPOS="2736"
+                    WIDTH="900"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_ce9e91ec"
+                    TAGREFS="LT756"
+                    BASELINE="67 2867 1204 2844" 
+                    HPOS="61"
+                    VPOS="2797"
+                    WIDTH="1140"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="64 2864 64 2885 1201 2861 1201 2841 1192 2797 61 2818 64 2864"/></Shape>
+	    <String CONTENT="Other Western countries soon signed similar trea¬"
+                    HPOS="61"
+                    VPOS="2797"
+                    WIDTH="1140"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b830cb47"
+                    TAGREFS="LT756"
+                    BASELINE="28 2937 1198 2908" 
+                    HPOS="23"
+                    VPOS="2844"
+                    WIDTH="1172"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="52 2885 49 2879 23 2879 26 2935 26 2952 1195 2932 1195 2905 1186 2844 1061 2864 55 2879 52 2885"/></Shape>
+	    <String CONTENT="ties with China. Each successive treaty expanded"
+                    HPOS="23"
+                    VPOS="2844"
+                    WIDTH="1172"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_327e8ff6"
+                    TAGREFS="LT756"
+                    BASELINE="22 2999 1201 2975" 
+                    HPOS="20"
+                    VPOS="2920"
+                    WIDTH="1178"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="20 2970 20 2996 20 3022 1198 2993 1198 2973 1189 2920 40 2937 20 2970"/></Shape>
+	    <String CONTENT="foreign privileges. Eventually the treaty system"
+                    HPOS="20"
+                    VPOS="2920"
+                    WIDTH="1178"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_213331ad"
+                    TAGREFS="LT756"
+                    BASELINE="29 3063 1207 3037" 
+                    HPOS="23"
+                    VPOS="2993"
+                    WIDTH="1181"
+                    HEIGHT="94">
+            <Shape><Polygon POINTS="26 3060 26 3087 1201 3057 1204 3034 1195 2993 23 3016 26 3060"/></Shape>
+	    <String CONTENT="opened inland waterways, allowed missionaries into"
+                    HPOS="23"
+                    VPOS="2993"
+                    WIDTH="1181"
+                    HEIGHT="94"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7bed0f66"
+                    TAGREFS="LT756"
+                    BASELINE="24 3125 1204 3104" 
+                    HPOS="20"
+                    VPOS="3046"
+                    WIDTH="1181"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="23 3122 23 3148 1198 3125 1201 3101 1195 3060 1052 3046 1049 3046 1046 3046 982 3060 724 3051 722 3051 719 3051 681 3069 184 3075 38 3063 35 3063 32 3063 29 3063 29 3066 20 3072 23 3122"/></Shape>
+	    <String CONTENT="China’s interior, and deprived China of tariff au¬"
+                    HPOS="20"
+                    VPOS="3046"
+                    WIDTH="1181"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_44dd978a"
+                    TAGREFS="LT756"
+                    BASELINE="23 3189 1198 3168" 
+                    HPOS="17"
+                    VPOS="3113"
+                    WIDTH="1178"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="20 3186 20 3221 1192 3198 1195 3165 1186 3113 172 3139 17 3127 20 3186"/></Shape>
+	    <String CONTENT="tonomy. After Britain and France defeated China in"
+                    HPOS="17"
+                    VPOS="3113"
+                    WIDTH="1178"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_3582f1e1"
+                    TAGREFS="LT756"
+                    BASELINE="25 3259 1210 3230" 
+                    HPOS="20"
+                    VPOS="3183"
+                    WIDTH="1187"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="23 3256 23 3279 1204 3256 1207 3227 1198 3183 20 3209 23 3256"/></Shape>
+	    <String CONTENT="the Second Opium War (also known as the Arrow"
+                    HPOS="20"
+                    VPOS="3183"
+                    WIDTH="1187"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_59de4d76"
+                    TAGREFS="LT756"
+                    BASELINE="27 3317 1211 3297" 
+                    HPOS="23"
+                    VPOS="3244"
+                    WIDTH="1187"
+                    HEIGHT="100">
+            <Shape><Polygon POINTS="26 3315 26 3341 672 3344 675 3344 868 3326 877 3326 879 3326 1026 3338 1029 3338 1210 3317 1210 3294 1204 3253 868 3244 865 3244 862 3244 859 3244 859 3247 850 3253 844 3259 818 3253 780 3247 777 3247 575 3256 187 3271 23 3259 26 3315"/></Shape>
+	    <String CONTENT="War; 1856-1860), China permitted foreign lega¬"
+                    HPOS="23"
+                    VPOS="3244"
+                    WIDTH="1187"
+                    HEIGHT="100"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f67fc2e4"
+                    TAGREFS="LT756"
+                    BASELINE="28 3399 1214 3364" 
+                    HPOS="23"
+                    VPOS="3312"
+                    WIDTH="1190"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="26 3396 26 3414 1210 3385 1213 3361 1204 3312 23 3338 26 3396"/></Shape>
+	    <String CONTENT="tions to be established in Beijing for the first time."
+                    HPOS="23"
+                    VPOS="3312"
+                    WIDTH="1190"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_974d013b"
+                    TAGREFS="LT756"
+                    BASELINE="24 3455 1176 3426" 
+                    HPOS="20"
+                    VPOS="3367"
+                    WIDTH="1155"
+                    HEIGHT="129">
+            <Shape><Polygon POINTS="137 3393 119 3393 108 3405 20 3393 23 3452 23 3496 1175 3455 1175 3423 1166 3367 236 3402 157 3393 137 3393"/></Shape>
+	    <String CONTENT="[See Hong Kong; Arrow War; and Treaty Ports.]"
+                    HPOS="20"
+                    VPOS="3367"
+                    WIDTH="1155"
+                    HEIGHT="129"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1274"
+                   VPOS="152"
+                   WIDTH="1194"
+                   HEIGHT="3299"
+                   ID="eSc_textblock_d3499924"
+                   TAGREFS="BT1861">
+          <Shape><Polygon POINTS="2468 3410 1321 3451 1274 233 1299 152 2394 175 2452 1812"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_81e259f3"
+                    TAGREFS="LT756"
+                    BASELINE="1335 201 2373 236" 
+                    HPOS="1330"
+                    VPOS="152"
+                    WIDTH="1040"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="1917 163 1888 163 1862 160 1850 160 1830 160 1800 160 1771 160 1742 160 1713 157 1683 157 1654 157 1625 157 1596 157 1566 154 1537 154 1508 154 1479 154 1449 152 1420 152 1391 152 1362 152 1333 152 1333 198 1330 219 2364 263 2370 233 2367 181 1923 163 1917 163"/></Shape>
+	    <String CONTENT="Nineteenth-century Rebellions. The Opium War"
+                    HPOS="1330"
+                    VPOS="152"
+                    WIDTH="1040"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b551547a"
+                    TAGREFS="LT756"
+                    BASELINE="1286 260 2376 295" 
+                    HPOS="1283"
+                    VPOS="201"
+                    WIDTH="1093"
+                    HEIGHT="123">
+            <Shape><Polygon POINTS="1344 204 1341 201 1292 201 1286 213 1286 260 1283 280 2370 324 2376 295 2376 251 1347 204 1344 204"/></Shape>
+	    <String CONTENT="and the shift of trade to treaty ports north of Canton"
+                    HPOS="1283"
+                    VPOS="201"
+                    WIDTH="1093"
+                    HEIGHT="123"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_0703e95f"
+                    TAGREFS="LT756"
+                    BASELINE="1283 327 2381 353" 
+                    HPOS="1277"
+                    VPOS="283"
+                    WIDTH="1102"
+                    HEIGHT="97">
+            <Shape><Polygon POINTS="1280 324 1277 344 2373 380 2379 350 2376 309 1280 283 1280 324"/></Shape>
+	    <String CONTENT="disrupted the economy of Guangdong Province."
+                    HPOS="1277"
+                    VPOS="283"
+                    WIDTH="1102"
+                    HEIGHT="97"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b4902b06"
+                    TAGREFS="LT756"
+                    BASELINE="1283 385 2382 412" 
+                    HPOS="1277"
+                    VPOS="330"
+                    WIDTH="1102"
+                    HEIGHT="111">
+            <Shape><Polygon POINTS="1280 382 1277 403 2373 441 2379 409 2376 359 1280 330 1280 382"/></Shape>
+	    <String CONTENT="Economic dislocation increased popular unrest and"
+                    HPOS="1277"
+                    VPOS="330"
+                    WIDTH="1102"
+                    HEIGHT="111"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_927d3e00"
+                    TAGREFS="LT756"
+                    BASELINE="1283 450 2379 476" 
+                    HPOS="1280"
+                    VPOS="400"
+                    WIDTH="1099"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="1283 450 1280 476 2373 505 2379 476 2376 426 1283 400 1283 450"/></Shape>
+	    <String CONTENT="provided the backdrop to the Taiping Rebellion"
+                    HPOS="1280"
+                    VPOS="400"
+                    WIDTH="1099"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_5f69747c"
+                    TAGREFS="LT756"
+                    BASELINE="1292 505 1590 508" 
+                    HPOS="1286"
+                    VPOS="453"
+                    WIDTH="301"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1581 456 1552 456 1546 453 1289 453 1289 502 1286 526 1581 534 1587 505 1584 456 1581 456"/></Shape>
+	    <String CONTENT="(1851-1864)."
+                    HPOS="1286"
+                    VPOS="453"
+                    WIDTH="301"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d305a9d8"
+                    TAGREFS="LT756"
+                    BASELINE="1338 564 2385 590" 
+                    HPOS="1335"
+                    VPOS="508"
+                    WIDTH="1050"
+                    HEIGHT="108">
+            <Shape><Polygon POINTS="1485 508 1455 508 1426 508 1397 508 1368 508 1338 508 1338 564 1335 584 2379 616 2385 590 2382 540 1496 508 1485 508"/></Shape>
+	    <String CONTENT="The Taiping movement was led by Hong Xiuquan"
+                    HPOS="1335"
+                    VPOS="508"
+                    WIDTH="1050"
+                    HEIGHT="108"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_238e5f66"
+                    TAGREFS="LT756"
+                    BASELINE="1292 628 2385 648" 
+                    HPOS="1289"
+                    VPOS="570"
+                    WIDTH="1096"
+                    HEIGHT="105">
+            <Shape><Polygon POINTS="1292 628 1289 648 2379 675 2385 648 2385 602 1292 570 1292 628"/></Shape>
+	    <String CONTENT="(1813-1864),who had been exposed to Christianity"
+                    HPOS="1289"
+                    VPOS="570"
+                    WIDTH="1096"
+                    HEIGHT="105"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b2fa7ef4"
+                    TAGREFS="LT756"
+                    BASELINE="1289 686 2388 704" 
+                    HPOS="1286"
+                    VPOS="634"
+                    WIDTH="1102"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1289 686 1286 707 2382 733 2388 704 2388 660 1289 634 1289 686"/></Shape>
+	    <String CONTENT="in Canton. Convinced that he was the younger"
+                    HPOS="1286"
+                    VPOS="634"
+                    WIDTH="1102"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_bd2fe06a"
+                    TAGREFS="LT756"
+                    BASELINE="1289 748 2385 765" 
+                    HPOS="1286"
+                    VPOS="689"
+                    WIDTH="1099"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="1289 748 1286 768 2379 792 2385 765 2382 713 1411 707 1289 689 1289 748"/></Shape>
+	    <String CONTENT="brother ot Jesus, Hong founded a sect and in 1851"
+                    HPOS="1286"
+                    VPOS="689"
+                    WIDTH="1099"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_75f255ed"
+                    TAGREFS="LT756"
+                    BASELINE="1289 812 2404 824" 
+                    HPOS="1283"
+                    VPOS="765"
+                    WIDTH="1119"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1286 809 1283 838 2397 841 2402 821 2400 777 1286 765 1286 809"/></Shape>
+	    <String CONTENT="proclaimed the inauguration of the &quot;Heavenly King¬"
+                    HPOS="1283"
+                    VPOS="765"
+                    WIDTH="1119"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c649c3c0"
+                    TAGREFS="LT756"
+                    BASELINE="1289 871 2397 885" 
+                    HPOS="1283"
+                    VPOS="824"
+                    WIDTH="1111"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1286 868 1283 888 2388 906 2394 882 2391 838 1286 824 1286 868"/></Shape>
+	    <String CONTENT="dom of Great Peace” (taiping tianguo). His army"
+                    HPOS="1283"
+                    VPOS="824"
+                    WIDTH="1111"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_15ae34d7"
+                    TAGREFS="LT756"
+                    BASELINE="1289 932 2397 947" 
+                    HPOS="1286"
+                    VPOS="885"
+                    WIDTH="1111"
+                    HEIGHT="88">
+            <Shape><Polygon POINTS="1289 932 1286 950 2391 973 2397 947 2397 891 1289 885 1289 932"/></Shape>
+	    <String CONTENT="marched north and by 1853 took Nanjing, which"
+                    HPOS="1286"
+                    VPOS="885"
+                    WIDTH="1111"
+                    HEIGHT="88"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e713de40"
+                    TAGREFS="LT756"
+                    BASELINE="1292 996 1906 999" 
+                    HPOS="1286"
+                    VPOS="935"
+                    WIDTH="617"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1289 993 1286 1017 1900 1017 1903 996 1900 950 1289 935 1289 993"/></Shape>
+	    <String CONTENT="became the Taiping capital."
+                    HPOS="1286"
+                    VPOS="935"
+                    WIDTH="617"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c82ba350"
+                    TAGREFS="LT756"
+                    BASELINE="1344 1052 2413 1072" 
+                    HPOS="1338"
+                    VPOS="996"
+                    WIDTH="1073"
+                    HEIGHT="91">
+            <Shape><Polygon POINTS="1341 1049 1338 1072 2405 1087 2411 1069 2411 1020 1341 996 1341 1049"/></Shape>
+	    <String CONTENT="Taiping ideology combined elements of Chris¬"
+                    HPOS="1338"
+                    VPOS="996"
+                    WIDTH="1073"
+                    HEIGHT="91"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_f6c67188"
+                    TAGREFS="LT756"
+                    BASELINE="1292 1116 2400 1128" 
+                    HPOS="1289"
+                    VPOS="1058"
+                    WIDTH="1111"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="2373 1069 2344 1069 2315 1069 2286 1069 2256 1069 2227 1069 2198 1067 2169 1067 2139 1067 2110 1067 2081 1067 2052 1067 2022 1064 1993 1064 1964 1064 1935 1064 1906 1064 1876 1064 1862 1061 1292 1058 1292 1116 1289 1143 2394 1148 2400 1128 2400 1067 2373 1064 2373 1069"/></Shape>
+	    <String CONTENT="tianity with Chinese utopian thought. lt envisioned"
+                    HPOS="1289"
+                    VPOS="1058"
+                    WIDTH="1111"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_907b7167"
+                    TAGREFS="LT756"
+                    BASELINE="1292 1178 2400 1186" 
+                    HPOS="1289"
+                    VPOS="1128"
+                    WIDTH="1111"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1292 1178 1289 1195 2394 1204 2400 1186 2397 1137 1292 1128 1292 1178"/></Shape>
+	    <String CONTENT="equal distribution of land, sexual equality, and com¬"
+                    HPOS="1289"
+                    VPOS="1128"
+                    WIDTH="1111"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_855215e6"
+                    TAGREFS="LT756"
+                    BASELINE="1292 1236 2408 1248" 
+                    HPOS="1289"
+                    VPOS="1189"
+                    WIDTH="1119"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1292 1236 1289 1265 2402 1274 2408 1248 2408 1192 1292 1189 1292 1236"/></Shape>
+	    <String CONTENT="munal property. Taiping social policies prohibited"
+                    HPOS="1289"
+                    VPOS="1189"
+                    WIDTH="1119"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_66598c25"
+                    TAGREFS="LT756"
+                    BASELINE="1295 1297 2400 1306" 
+                    HPOS="1292"
+                    VPOS="1254"
+                    WIDTH="1108"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1295 1297 1292 1315 2394 1335 2400 1306 2397 1259 1295 1254 1295 1297"/></Shape>
+	    <String CONTENT="use of opium, slavery, polygamy, and the binding"
+                    HPOS="1292"
+                    VPOS="1254"
+                    WIDTH="1108"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_02e2b793"
+                    TAGREFS="LT756"
+                    BASELINE="1295 1365 2408 1359" 
+                    HPOS="1292"
+                    VPOS="1318"
+                    WIDTH="1116"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1295 1365 1295 1391 2405 1391 2408 1359 2402 1318 1292 1318 1295 1365"/></Shape>
+	    <String CONTENT="of women’s feet. However, the Taiping movement"
+                    HPOS="1292"
+                    VPOS="1318"
+                    WIDTH="1116"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_4fc079ef"
+                    TAGREFS="LT756"
+                    BASELINE="1295 1426 2412 1420" 
+                    HPOS="1289"
+                    VPOS="1373"
+                    WIDTH="1122"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="1292 1423 1292 1447 2408 1441 2411 1417 2405 1373 1289 1373 1292 1423"/></Shape>
+	    <String CONTENT="suffered from internecine warfare; moreover, its re¬"
+                    HPOS="1289"
+                    VPOS="1373"
+                    WIDTH="1122"
+                    HEIGHT="74"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b4ce5bc9"
+                    TAGREFS="LT756"
+                    BASELINE="1295 1487 2408 1487" 
+                    HPOS="1295"
+                    VPOS="1429"
+                    WIDTH="1113"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1295 1487 1295 1508 2408 1508 2408 1487 2408 1441 1295 1429 1295 1487"/></Shape>
+	    <String CONTENT="ligious intolerance and hostility to much of tradi¬"
+                    HPOS="1295"
+                    VPOS="1429"
+                    WIDTH="1113"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9a91890e"
+                    TAGREFS="LT756"
+                    BASELINE="1297 1546 2414 1546" 
+                    HPOS="1297"
+                    VPOS="1502"
+                    WIDTH="1117"
+                    HEIGHT="73">
+            <Shape><Polygon POINTS="1297 1546 1297 1575 2414 1575 2414 1546 2414 1502 1297 1502 1297 1546"/></Shape>
+	    <String CONTENT="tional culture lost it popular support. Qing loyalists"
+                    HPOS="1297"
+                    VPOS="1502"
+                    WIDTH="1117"
+                    HEIGHT="73"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_410394bb"
+                    TAGREFS="LT756"
+                    BASELINE="1297 1607 2430 1604" 
+                    HPOS="1292"
+                    VPOS="1561"
+                    WIDTH="1137"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1295 1604 1295 1631 2426 1631 2429 1601 2420 1561 1292 1561 1295 1604"/></Shape>
+	    <String CONTENT="eventually rallied behind provincial armies orga¬"
+                    HPOS="1292"
+                    VPOS="1561"
+                    WIDTH="1137"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1ec5df97"
+                    TAGREFS="LT756"
+                    BASELINE="1297 1672 2417 1663" 
+                    HPOS="1295"
+                    VPOS="1613"
+                    WIDTH="1122"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1297 1672 1297 1692 2417 1692 2417 1663 2408 1613 1295 1619 1297 1672"/></Shape>
+	    <String CONTENT="nized by Zeng Guofan (1811-1872) and others. The"
+                    HPOS="1295"
+                    VPOS="1613"
+                    WIDTH="1122"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_aa2914a3"
+                    TAGREFS="LT756"
+                    BASELINE="1300 1730 2420 1724" 
+                    HPOS="1295"
+                    VPOS="1677"
+                    WIDTH="1122"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1297 1727 1297 1759 2414 1759 2417 1721 2411 1677 1295 1677 1297 1727"/></Shape>
+	    <String CONTENT="Taipings were suppressed by 1864. [See also Taiping"
+                    HPOS="1295"
+                    VPOS="1677"
+                    WIDTH="1122"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_72f63e4d"
+                    TAGREFS="LT756"
+                    BASELINE="1300 1792 2001 1786" 
+                    HPOS="1295"
+                    VPOS="1736"
+                    WIDTH="704"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1297 1789 1297 1821 1996 1809 1999 1783 1993 1736 1295 1736 1297 1789"/></Shape>
+	    <String CONTENT="Rebellion and Hong Xiuquan.]"
+                    HPOS="1295"
+                    VPOS="1736"
+                    WIDTH="704"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_04d71b0c"
+                    TAGREFS="LT756"
+                    BASELINE="1353 1850 2426 1841" 
+                    HPOS="1347"
+                    VPOS="1797"
+                    WIDTH="1076"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1350 1847 1350 1873 2423 1868 2423 1838 2414 1797 1347 1797 1350 1847"/></Shape>
+	    <String CONTENT="The Taiping Rebellion coincided with the Nian"
+                    HPOS="1347"
+                    VPOS="1797"
+                    WIDTH="1076"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_d22c838a"
+                    TAGREFS="LT756"
+                    BASELINE="1303 1914 2423 1906" 
+                    HPOS="1300"
+                    VPOS="1853"
+                    WIDTH="1123"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1303 1914 1303 1935 2420 1935 2423 1906 2414 1853 1300 1856 1303 1914"/></Shape>
+	    <String CONTENT="Rebellion in North China (1853-186́8) and three"
+                    HPOS="1300"
+                    VPOS="1853"
+                    WIDTH="1123"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e6675567"
+                    TAGREFS="LT756"
+                    BASELINE="1303 1976 2432 1964" 
+                    HPOS="1297"
+                    VPOS="1920"
+                    WIDTH="1132"
+                    HEIGHT="70">
+            <Shape><Polygon POINTS="1300 1973 1300 1990 2429 1979 2429 1961 2420 1920 1297 1926 1300 1973"/></Shape>
+	    <String CONTENT="separate Muslim rebellions: in Yunnan (1856-"
+                    HPOS="1297"
+                    VPOS="1920"
+                    WIDTH="1132"
+                    HEIGHT="70"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b300d747"
+                    TAGREFS="LT756"
+                    BASELINE="1306 2037 2429 2025" 
+                    HPOS="1300"
+                    VPOS="1979"
+                    WIDTH="1126"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1303 2034 1303 2058 2423 2055 2426 2022 2417 1979 1300 1987 1303 2034"/></Shape>
+	    <String CONTENT="1872), in Shaanxi and Gansu (1862-1877), and in"
+                    HPOS="1300"
+                    VPOS="1979"
+                    WIDTH="1126"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_12e0889a"
+                    TAGREFS="LT756"
+                    BASELINE="1312 2098 2428 2084" 
+                    HPOS="1306"
+                    VPOS="2040"
+                    WIDTH="1120"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1309 2096 1309 2119 2423 2104 2426 2081 2417 2040 1306 2046 1309 2096"/></Shape>
+	    <String CONTENT="eastern Turkestan (1864-1878). The Qing sup¬"
+                    HPOS="1306"
+                    VPOS="2040"
+                    WIDTH="1120"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e524c51b"
+                    TAGREFS="LT756"
+                    BASELINE="1303 2163 2432 2145" 
+                    HPOS="1300"
+                    VPOS="2090"
+                    WIDTH="1132"
+                    HEIGHT="93">
+            <Shape><Polygon POINTS="1303 2163 1303 2183 2429 2172 2432 2145 2423 2090 1300 2116 1303 2163"/></Shape>
+	    <String CONTENT="pressed the rebellions at the expense ot te central"
+                    HPOS="1300"
+                    VPOS="2090"
+                    WIDTH="1132"
+                    HEIGHT="93"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_b1dd6b61"
+                    TAGREFS="LT756"
+                    BASELINE="1306 2224 2435 2207" 
+                    HPOS="1303"
+                    VPOS="2151"
+                    WIDTH="1132"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1306 2224 1306 2250 2432 2227 2435 2207 2426 2151 1303 2177 1306 2224"/></Shape>
+	    <String CONTENT="government’s authority as provincial officials led"
+                    HPOS="1303"
+                    VPOS="2151"
+                    WIDTH="1132"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a943995e"
+                    TAGREFS="LT756"
+                    BASELINE="1306 2283 2438 2271" 
+                    HPOS="1303"
+                    VPOS="2224"
+                    WIDTH="1135"
+                    HEIGHT="76">
+            <Shape><Polygon POINTS="1306 2283 1306 2300 2435 2288 2438 2271 2429 2224 1303 2233 1306 2283"/></Shape>
+	    <String CONTENT="military operations and won fiscal autonomy. At the"
+                    HPOS="1303"
+                    VPOS="2224"
+                    WIDTH="1135"
+                    HEIGHT="76"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9bc8249c"
+                    TAGREFS="LT756"
+                    BASELINE="1312 2344 2441 2329" 
+                    HPOS="1306"
+                    VPOS="2283"
+                    WIDTH="1134"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="1309 2341 1309 2364 2438 2359 2440 2326 2432 2283 1306 2294 1309 2341"/></Shape>
+	    <String CONTENT="same time, Han Chinese officials increased their in¬"
+                    HPOS="1306"
+                    VPOS="2283"
+                    WIDTH="1134"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_fc881b60"
+                    TAGREFS="LT756"
+                    BASELINE="1309 2405 2441 2394" 
+                    HPOS="1303"
+                    VPOS="2347"
+                    WIDTH="1137"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1306 2402 1306 2432 2440 2411 2440 2391 2432 2347 1303 2347 1306 2402"/></Shape>
+	    <String CONTENT="fluence and the Manchus became less powerful. [See"
+                    HPOS="1303"
+                    VPOS="2347"
+                    WIDTH="1137"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_1dc1fb1d"
+                    TAGREFS="LT756"
+                    BASELINE="1309 2467 1798 2461" 
+                    HPOS="1303"
+                    VPOS="2405"
+                    WIDTH="494"
+                    HEIGHT="79">
+            <Shape><Polygon POINTS="1306 2464 1306 2484 1794 2478 1797 2458 1789 2405 1303 2411 1306 2464"/></Shape>
+	    <String CONTENT="also Nian Rebellion.]"
+                    HPOS="1303"
+                    VPOS="2405"
+                    WIDTH="494"
+                    HEIGHT="79"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_866e9a3e"
+                    TAGREFS="LT756"
+                    BASELINE="1356 2528 2438 2514" 
+                    HPOS="1350"
+                    VPOS="2455"
+                    WIDTH="1085"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1616 2461 1528 2476 1371 2464 1368 2464 1365 2464 1362 2464 1350 2473 1353 2525 1353 2554 2432 2543 2435 2511 2429 2455 2031 2455 2028 2455 2025 2455 2005 2464 1993 2470 1949 2467 1850 2458 1847 2458 1792 2470 1777 2473 1754 2473 1619 2461 1616 2461"/></Shape>
+	    <String CONTENT="Self-Strengthening and Imperialism. After 1860"
+                    HPOS="1350"
+                    VPOS="2455"
+                    WIDTH="1085"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9124e69d"
+                    TAGREFS="LT756"
+                    BASELINE="1312 2587 2435 2575" 
+                    HPOS="1309"
+                    VPOS="2522"
+                    WIDTH="1126"
+                    HEIGHT="82">
+            <Shape><Polygon POINTS="1312 2587 1312 2604 2435 2601 2435 2575 2426 2522 1309 2540 1312 2587"/></Shape>
+	    <String CONTENT="the Qing adopted a conciliatory policy toward the"
+                    HPOS="1309"
+                    VPOS="2522"
+                    WIDTH="1126"
+                    HEIGHT="82"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8df2e8d4"
+                    TAGREFS="LT756"
+                    BASELINE="1321 2654 2441 2642" 
+                    HPOS="1315"
+                    VPOS="2590"
+                    WIDTH="1125"
+                    HEIGHT="81">
+            <Shape><Polygon POINTS="2429 2590 1315 2592 1318 2651 1318 2671 2440 2666 2440 2639 2432 2604 2429 2590"/></Shape>
+	    <String CONTENT="West. Under the leadership ot Prince Gong (Gong"
+                    HPOS="1315"
+                    VPOS="2590"
+                    WIDTH="1125"
+                    HEIGHT="81"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_731f0121"
+                    TAGREFS="LT756"
+                    BASELINE="1318 2715 2448 2695" 
+                    HPOS="1312"
+                    VPOS="2648"
+                    WIDTH="1134"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="1315 2712 1315 2733 2446 2721 2446 2692 2438 2648 1312 2654 1315 2712"/></Shape>
+	    <String CONTENT="Yixin; 1833-1898) and Empress Dowager Cixi"
+                    HPOS="1312"
+                    VPOS="2648"
+                    WIDTH="1134"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_8da5b084"
+                    TAGREFS="LT756"
+                    BASELINE="1324 2780 2445 2759" 
+                    HPOS="1318"
+                    VPOS="2698"
+                    WIDTH="1125"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1321 2777 1321 2797 2443 2777 2443 2756 2438 2712 2303 2698 2300 2698 2297 2698 2294 2698 2274 2712 2271 2712 2256 2712 2134 2701 2131 2701 1993 2712 1929 2718 1318 2718 1321 2777"/></Shape>
+	    <String CONTENT="(1835-1908), the government established the Zong¬"
+                    HPOS="1318"
+                    VPOS="2698"
+                    WIDTH="1125"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_c219f8d3"
+                    TAGREFS="LT756"
+                    BASELINE="1312 2841 2441 2823" 
+                    HPOS="1306"
+                    VPOS="2774"
+                    WIDTH="1134"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="1309 2838 1309 2864 2438 2844 2440 2821 2432 2774 1306 2777 1309 2838"/></Shape>
+	    <String CONTENT="li Yamen (a foreign affairs office) and a foreign lan¬"
+                    HPOS="1306"
+                    VPOS="2774"
+                    WIDTH="1134"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_7b0c4440"
+                    TAGREFS="LT756"
+                    BASELINE="1315 2905 2444 2885" 
+                    HPOS="1309"
+                    VPOS="2823"
+                    WIDTH="1134"
+                    HEIGHT="106">
+            <Shape><Polygon POINTS="1312 2902 1312 2929 2443 2902 2443 2882 2435 2823 1309 2853 1312 2902"/></Shape>
+	    <String CONTENT="guage school. Zeng Guofan and his protégé Li"
+                    HPOS="1309"
+                    VPOS="2823"
+                    WIDTH="1134"
+                    HEIGHT="106"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_28fc6c77"
+                    TAGREFS="LT756"
+                    BASELINE="1312 2970 2441 2943" 
+                    HPOS="1306"
+                    VPOS="2897"
+                    WIDTH="1134"
+                    HEIGHT="90">
+            <Shape><Polygon POINTS="1309 2967 1309 2987 2438 2973 2440 2940 2432 2897 1306 2917 1309 2967"/></Shape>
+	    <String CONTENT="Hongzhang (1823-1901), leaders of the suppression"
+                    HPOS="1306"
+                    VPOS="2897"
+                    WIDTH="1134"
+                    HEIGHT="90"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_9f01ca6e"
+                    TAGREFS="LT756"
+                    BASELINE="1318 3034 2452 3005" 
+                    HPOS="1312"
+                    VPOS="2955"
+                    WIDTH="1137"
+                    HEIGHT="96">
+            <Shape><Polygon POINTS="1315 3031 1315 3051 2446 3031 2449 3002 2440 2955 1312 2981 1315 3031"/></Shape>
+	    <String CONTENT="of the Taipings, sought to increase China’s power"
+                    HPOS="1312"
+                    VPOS="2955"
+                    WIDTH="1137"
+                    HEIGHT="96"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_611a24e5"
+                    TAGREFS="LT756"
+                    BASELINE="1318 3095 2448 3069" 
+                    HPOS="1312"
+                    VPOS="3016"
+                    WIDTH="1134"
+                    HEIGHT="103">
+            <Shape><Polygon POINTS="1315 3092 1315 3119 2443 3092 2446 3066 2438 3016 1312 3034 1315 3092"/></Shape>
+	    <String CONTENT="by introducing Western military technology. This"
+                    HPOS="1312"
+                    VPOS="3016"
+                    WIDTH="1134"
+                    HEIGHT="103"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_30519afa"
+                    TAGREFS="LT756"
+                    BASELINE="1327 3160 2445 3127" 
+                    HPOS="1321"
+                    VPOS="3078"
+                    WIDTH="1122"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="2432 3092 2414 3078 1321 3110 1324 3157 1324 3180 2443 3154 2443 3125 2435 3081 2432 3092"/></Shape>
+	    <String CONTENT="effort, known as the Self-Strengthening Movement,"
+                    HPOS="1321"
+                    VPOS="3078"
+                    WIDTH="1122"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_43d2925a"
+                    TAGREFS="LT756"
+                    BASELINE="1321 3227 2459 3189" 
+                    HPOS="1315"
+                    VPOS="3139"
+                    WIDTH="1143"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="2426 3142 2420 3139 1315 3174 1318 3224 1318 3241 2455 3209 2458 3186 2449 3139 2426 3139 2426 3142"/></Shape>
+	    <String CONTENT="resulted in establishment of te Jiangnan Arsenal"
+                    HPOS="1315"
+                    VPOS="3139"
+                    WIDTH="1143"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e01b191b"
+                    TAGREFS="LT756"
+                    BASELINE="1333 3288 2458 3250" 
+                    HPOS="1327"
+                    VPOS="3201"
+                    WIDTH="1128"
+                    HEIGHT="114">
+            <Shape><Polygon POINTS="1330 3285 1330 3315 2455 3268 2455 3247 2446 3201 1327 3233 1330 3285"/></Shape>
+	    <String CONTENT="(1854) and the Fuzhou Shipyard. Eventually, the"
+                    HPOS="1327"
+                    VPOS="3201"
+                    WIDTH="1128"
+                    HEIGHT="114"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a5150e32"
+                    TAGREFS="LT756"
+                    BASELINE="1324 3353 2444 3315" 
+                    HPOS="1318"
+                    VPOS="3268"
+                    WIDTH="1125"
+                    HEIGHT="102">
+            <Shape><Polygon POINTS="2429 3288 2411 3268 1318 3303 1321 3350 1321 3370 2443 3341 2443 3312 2435 3268 2429 3288"/></Shape>
+	    <String CONTENT="movement also promoted industrial development."
+                    HPOS="1318"
+                    VPOS="3268"
+                    WIDTH="1125"
+                    HEIGHT="102"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_e15bf816"
+                    TAGREFS="LT756"
+                    BASELINE="1327 3420 2451 3373" 
+                    HPOS="1324"
+                    VPOS="3323"
+                    WIDTH="1125"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="1324 3402 1324 3417 1324 3455 1742 3426 1768 3437 1771 3437 1774 3437 1777 3437 1818 3423 1870 3434 1882 3434 1885 3434 1888 3434 1897 3431 1958 3414 2449 3408 2449 3370 2443 3323 1341 3361 1324 3402"/></Shape>
+	    <String CONTENT="Several enterprises were established under govern¬"
+                    HPOS="1324"
+                    VPOS="3323"
+                    WIDTH="1125"
+                    HEIGHT="132"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1752"
+                   VPOS="28"
+                   WIDTH="445"
+                   HEIGHT="81"
+                   ID="eSc_textblock_5245ecb9"
+                   TAGREFS="BT1881">
+          <Shape><Polygon POINTS="2197 90 1758 109 1752 28 2101 35 2183 46"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_f999010b"
+                    TAGREFS="LT755"
+                    BASELINE="1765 73 2178 83" 
+                    HPOS="1759"
+                    VPOS="29"
+                    WIDTH="418"
+                    HEIGHT="85">
+            <Shape><Polygon POINTS="2169 43 2139 40 2110 35 2081 32 2052 32 2022 32 1993 32 1964 32 1935 32 1906 29 1876 29 1847 29 1818 29 1789 29 1762 29 1762 70 1759 105 2172 114 2177 81 2174 43 2169 43"/></Shape>
+	    <String CONTENT="QING DYNASTY"
+                    HPOS="1759"
+                    VPOS="29"
+                    WIDTH="418"
+                    HEIGHT="85"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="2254"
+                   VPOS="46"
+                   WIDTH="116"
+                   HEIGHT="68"
+                   ID="eSc_textblock_de9a0945"
+                   TAGREFS="BT1882">
+          <Shape><Polygon POINTS="2280 114 2254 46 2370 46 2370 90"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_42d13e3e"
+                    TAGREFS="LT2"
+                    BASELINE="2257 98 2377 96" 
+                    HPOS="2253"
+                    VPOS="8"
+                    WIDTH="123"
+                    HEIGHT="120">
+            <Shape><Polygon POINTS="2256 122 2373 128 2376 93 2373 26 2306 8 2303 8 2300 8 2297 8 2253 26 2256 96"/></Shape>
+	    <String CONTENT=""
+                    HPOS="2253"
+                    VPOS="8"
+                    WIDTH="123"
+                    HEIGHT="120"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1781"
+                   VPOS="104"
+                   WIDTH="69"
+                   HEIGHT="2"
+                   ID="eSc_textblock_234d02b2"
+                   >
+          <Shape><Polygon POINTS="1850 106 1850 104 1781 104 1781 106"/></Shape>
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
