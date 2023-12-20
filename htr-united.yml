@@ -1,0 +1,32 @@
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+title: Qing Dynasty
+url: https://github.com/jjs1902/Qing_Dynasty
+authors:
+  - name: Jessica
+    surname: Da Silva Fernandes
+    roles:
+      - transcriber
+      - project-manager
+institutions: []
+description: 'Article Qing Dynasty dans l’Encyclopedia of Asian History '
+project-name: FoNDUE
+language:
+  - eng
+production-software: eScriptorium + Kraken
+automatically-aligned: false
+script:
+  - iso: Latn
+script-type: only-typed
+time:
+  notBefore: '1900'
+  notAfter: '2000'
+hands:
+  count: '1'
+  precision: exact
+license:
+  - name: CC-BY 4.0
+    url: https://creativecommons.org/licenses/by/4.0/
+format: Alto-XML
+volume:
+  - metric: pages
+    count: 5
