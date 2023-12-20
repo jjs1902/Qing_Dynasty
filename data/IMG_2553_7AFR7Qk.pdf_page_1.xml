@@ -29,8 +29,8 @@
                    VPOS="23"
                    WIDTH="1271"
                    HEIGHT="3423"
-                   ID="eSc_textblock_9bdcce4a"
-                   >
+                   ID="eSc_textblock_c6ba5662"
+                   TAGREFS="BT1888">
           <Shape><Polygon POINTS="1856 23 1879 58 1844 3388 1333 3399 1213 3446 608 3423 643 596 666 35 713 23"/></Shape>
           
           
@@ -940,8 +940,8 @@
                    VPOS="23"
                    WIDTH="1271"
                    HEIGHT="3423"
-                   ID="eSc_textblock_c6ba5662"
-                   TAGREFS="BT1888">
+                   ID="eSc_textblock_9bdcce4a"
+                   >
           <Shape><Polygon POINTS="1856 23 1879 58 1844 3388 1333 3399 1213 3446 608 3423 643 596 666 35 713 23"/></Shape>
           
         </TextBlock>
