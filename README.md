@@ -6,6 +6,10 @@
 
 ALTO files with the segmentation and transcription of the Qing Dynasty entry in the Encyclopedia of Asian History fully corrected manually.
 
+## Source
+
+EMBREE Ainslie T., _Encyclopedia of Asian History_, Charles Scribner's Sons, New York, Volume 3, 1988. (Not to be found on the internet)
+
 ## Licence
 
 Transcriptions are open source, not the images which were taken from the Encyclopedia of Asian History edited by Ainslie T. Embree.
