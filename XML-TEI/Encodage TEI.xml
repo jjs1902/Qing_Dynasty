@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="myTEI.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="myTEI.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Encyclopedia of Asian History</title>
+            <author>EMBREE Ainslie T.</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Charles Scribner's Sons</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <p> Encyclopedia of Asian History peut être classé dans plusieurs genres : Asie,
+               Histoire, Dictionnaire. L'Encyclopédie est constituée de cinq volumes. </p>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <creation>
+            <date type="issued" when="1988"/>
+         </creation>
+         <langUsage>
+            <language ident="en"/>
+         </langUsage>
+         <textClass>
+            <keywords>
+               <term type="genre">Encyclopédie sur la Chine</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         
+         <p n="1">
+            <title>China</title>
+         </p>
+         <p n="2">
+            <l>of Wu and other Chinese generals, the Manchus</l>
+            <l>resistance. Initially meeting with little opposition,</l>
+            <l>the Manchus won te allegiance of government of-</l>
+            <l>ficials and local gentry, many of whom welcomed</l>
+            <l>the <name type="dynasty">Qing</name> as deliverance from banditry and rebellion.</l>
+            <l>In October 1644 the <name type="dynasty">Qing</name> capital was transferred</l>
+            <l>to Beijing. The conquest of South <country key="CH">China</country> was much more</l>
+            <l>prolonged. The Ming government there had not</l>
+            <l>been destroyed by rebellion. Several Ming loyalist</l>
+            <l>regimes vied for succession, and one controlled parts</l>
+            <l>of southwest <country key="CH">China</country> for fifteen years. Zheng Chenggong</l>
+            <l>(1624-1662), also known as Koxinga, led a</l>
+            <l>sustained Ming loyalist movement on the southeast</l>
+            <l>coast and Taiwan. In 1673 Wu Sangui and two other</l>
+            <l>Chinese generals, Shang Kexi and Geng Jimao,</l>
+            <l>rebelled and set up separatist regimes in the south.</l>
+            <l>This rebellion was quelled in 1681. Two years later</l>
+            <l>the <name type="dynasty">Qing</name> conquered Taiwan and defeated the last</l>
+            <l>Min resistance.[<hi rend="italic">See also </hi> Li Zicheng; Zheng Chenggong;</l>
+            <l>Wu Sangui; Shang Kexi; <hi rend="italic">and</hi> Three Feudatories</l>
+            <l>Rebellion.]</l>
+         </p>
+         <p n="3">
+            <l><hi rend="gothic"><name type="dynasty">Qing</name> Government.</hi> The <name type="dynasty">Qing</name> dynasty became</l>
+            <l>more sinicized under the Shunzhi emperor (r. 1644-1661)</l>
+            <l>The first Manchu monarch to master the</l>
+            <l>Chinese language, he revived the Hanlin Academy,</l>
+            <l>a stronghold of Confucian scholarship and</l>
+            <l>orthodoxy, and relied greatly on Chinese officials and</l>
+            <l>eunuchs. The pendulum swung back toward Manchu</l>
+            <l>control upon his death. His seven-year-old son</l>
+            <l>was chosen to rule as the Kangxi emperor(r. 1661-1722),</l>
+            <l>aided by a regency of four Manchu princes.</l>
+            <l>After Kangxi assumed personal power in 1669, he</l>
+            <l>institutionalized the privileged position of Manchus</l>
+            <l>by reserving for them top positions in the bureau-</l>
+            <l>cracy. Each of the Six Boards had one Chinese and</l>
+            <l>one Manchu minister: only half of the grand</l>
+            <l>secretaries were Chinese. Although Chinese were often</l>
+            <l>appointed provincial governors and filled almost all</l>
+            <l>lower positions, they were generally supervised by</l>
+            <l>Manchu, Mongol, or Chinese bannermen serving as</l>
+            <l>governors-general. [<hi rend="italic">See also</hi> Kangxi Emperor.]</l>
+         </p>
+         <p n="4">
+            <l><name type="dynasty">Qing</name> government followed Ming administrative</l>
+            <l>practices, with some minor modifications. Each of</l>
+            <l>the eighteen provinces was administered by a governor.</l>
+            <l>He was supervised by a governor-general,</l>
+            <l>who usually oversaw two provinces. Below the</l>
+            <l>provincial administration was a hierarchy of circuits,</l>
+            <l>prefectures, and districts. The district magistrate,</l>
+            <l>representing the lowest level of formal government,</l>
+            <l>was aided in his duties by local gentry, mostly degree</l>
+            <l>holders and their families.formal mechanisms for social mobility lagged </l>
+            <l>behind population growth.</l>
+         </p>
+         <p n="5">
+            <l><hi rend="gothic"><name type="dynasty">Qing</name> Thought and Literature.</hi> The trauma of the</l>
+            <l>Manchu conquest led Chinese scholars to concern</l>
+            <l>themselves with te causes of Ming collapse. Huang</l>
+            <l>Zongxi (1610-1695) advocated checks on the</l>
+            <l>power ot monarchs and delegation of authority; Gu</l>
+            <l>Yanwu (1612-1682) criticized Neo-Confucian</l>
+            <l>scholasticism and called for the pursuit of practical</l>
+            <l>knowledge. Scholars continued to regard the classics</l>
+            <l>as the basis of all learning. Gradually a "school of</l>
+            <l>empirical research” (<hi rend="italic">kaozheng xue</hi>) emerged, based</l>
+            <l>on close examination of classical texts and use of</l>
+            <l>the inductive method. This led to advances in philology</l>
+            <l>and etymology, and also to reassessment of or</l>
+            <l>thodox interpretations of the classics-particularly</l>
+            <l>by Dai Zhen (1724-1777). [<hi rend="italic">See also</hi> Huang Zongxi;</l>
+            <l>Gu Yanwu; Dai Zhen; <hi rend="italic">and</hi> Kaozheng Xue.]</l>
+         </p>
+         <p n="6">
+            <l>The state sponsored and controlled most aca-</l>
+            <l>demic activity. The Qianlong emperor (r. 1736-</l>
+            <l>1795) ordered the compilation of the 36,000-volume</l>
+            <l>“Complete Library of the Four Treasuries". At</l>
+            <l>the same time, he ordered a literary inquisition to</l>
+            <l>destroy books regarded as seditious.</l>
+            <l>Fiction flourished during the <name type="dynasty">Qing</name> period. Novels</l>
+            <l>reached their acme with <hi rend="italic">Honglou meng (The Dream</hi></l>
+            <l><hi rend="italic">-of the Red Chamber,</hi> also entitled <hi rend="italic">The Story of the</hi></l>
+            <l><hi rend="italic">Stone)</hi> by Cao Xueqin (1715?-1763). Another well</l>
+            <l>known novel of the period is Wu Jingzi's <hi rend="italic">Rulin</hi></l>
+            <l><hi rend="italic">waishi (The Scholars).</hi> [<hi rend="italic">See also</hi> Chinese Literature;</l>
+            <l>Cao Xueqin; Wu Jingzi; <hi rend="italic">and</hi> Rulin Waishi.]</l>
+         </p>
+         <p n="7">
+            <l><hi rend="gothic">Dynastic Decline.</hi> By the end of the eighteenth</l>
+            <l>century many of the classic signs of dynastic decline</l>
+            <l>had appeared. Administrative deterioration was ex</l>
+            <l>emplified by the career of Heshen (1750-1799), a</l>
+            <l>Manchu courtier who became a favorite of the</l>
+            <l>Qianlong emperor and rose rapidly from bodyguard</l>
+            <l>to grand councillor. Heshen's high status symbol</l>
+            <l>ized official corruption and demoralization. [<hi rend="italic">See</hi></l>
+            <l><hi rend="italic">also</hi> Heshen and Qianlong Emperor.]</l>
+         </p>
+         <p n="8">
+            <l>The White Lotus Rebellion, sparked by a mille</l>
+            <l>narian religious sect, broke out in 1796. The sect</l>
+            <l>had won adherents among the volatile and unsettled</l>
+            <l>population of west central <country key="CH">China</country>, and was moti</l>
+            <l>vated in part by opposition to official oppression.</l>
+            <l>Armed groups such as bandits and smugglers joined</l>
+            <l>the uprising, which the regular <name type="dynasty">Qing</name> banner forces</l>
+            <l>proved unable to subdue. Eventually the uprising</l>
+            <l>was put down by a locally organized militia, and by</l>
+            <l>1805 the White Lotus rebels had been annihilated.</l>
+            <l>[<hi rend="italic">See also</hi> White Lotus Society.]</l>
+         </p>
+         <p n="9">
+            <l>The rebellion was both a symptom and a cause</l>
+            <l>of dynastic decline. It resulted from social pressures</l>
+            <l>and administrative deterioration, and it hastened the</l>
+            <l>fiscal and military decline ot the dynasty. As a result,</l>
+            <l>the <name type="dynasty">Qing</name> was already weakened when challenged by</l>
+            <l>te Western powers.<hi rend="italic">Relations with the West.</hi> Until the nineteenth</l>
+            <l>century, Sino-Western contact posed little threat to</l>
+            <l>te Qing. As it expanded into Inner Asia, the Qing</l>
+            <l>met Russian continental expansion; after some</l>
+            <l>minor conflicts, however, the two empires signed the</l>
+            <l>treaties of Nerchinsk (1689) and Kiakhta (1727) to</l>
+            <l>regulate trade and define their borders.</l>
+         </p>
+         <p n="10">
+            <l>Western maritime trade with <country key="CH">China</country> began early</l>
+            <l>in the sixteenth century with the arrival ot Portuguese</l>
+            <l>and Dutch ships on the southeast coast. By</l>
+            <l>1760 the <name type="dynasty">Qing</name> government had restricted Western</l>
+            <l>maritime trade to Canton (Guangzhou). European</l>
+            <l>merchants were permitted only seasonal residence</l>
+            <l>in Canton and allowed to trade only with the</l>
+            <l>Cohong, a government-chartered merchant guild. [<hi rend="italic">See</hi></l>
+            <l>Cohong.]</l>
+         </p>
+         <p n="11">
+            <l>Great <country key="GB">Britain</country> emerged as <country key="CH">China</country>’s major Western</l>
+            <l>trading partner. The tea trade, monopolized by the</l>
+            <l>East India Company, became an important source</l>
+            <l>of british revenue. In order to improve <country key="GB">Britain</country>'s</l>
+            <l>unfavorable balance of payments, the East India Commy</l>
+            <l>began to grow opium in India and sell it to</l>
+            <l>private traders who smuggled it into <country key="CH">China</country>. british</l>
+            <l>opium trade with <country key="CH">China</country> doubled in the 1830s. The</l>
+            <l>opium trade was illegal—<country key="CH">China</country> outlawed opium, a</l>
+            <l>severely addictive and debilitating drug, in 1729.</l>
+            <l>Moreover, the opium trade reversed te trade</l>
+            <l>balance, disrupting the Chinese economy. The Qing</l>
+            <l>government in 1838 dispatched Commissioner Lin</l>
+            <l>Zexu to Canton to suppress the opium trade. british</l>
+            <l>resistance sparked the Opium War (1839-1842).</l>
+            <l>[<hi rend="italic">See</hi> Lin Zexu and <country key="CH">China</country> Trade.]</l>
+         </p>
+         <p n="12">
+            <l><hi rend="gothic">The Treaty System.</hi> After three years of warfare,</l>
+            <l><country key="CH">China</country> sued for peace and was forced to sign the</l>
+            <l>Treaty of Nanjing in 1842. The treaty opened five</l>
+            <l>ports to british trade and gave british subjects</l>
+            <l>extraterritorial privileges in <country key="CH">China</country>. In addition, <country key="CH">China</country></l>
+            <l>was required to pay an indemnity and cede the island</l>
+            <l>of Hong Kong (Xianggang) to <country key="GB">Britain</country>.</l>
+            <l>Other Western countries soon signed similar</l>
+            <l>treaties with <country key="CH">China</country>. Each successive treaty expanded</l>
+            <l>foreign privileges. Eventually the treaty system</l>
+            <l>opened inland waterways, allowed missionaries into</l>
+            <l><country key="CH">China</country>’s interior, and deprived <country key="CH">China</country> of tariff</l>
+            <l>autonomy. After <country key="GB">Britain</country> and France defeated <country key="CH">China</country> in</l>
+            <l>the Second Opium War (also known as the Arrow</l>
+            <l>War; 1856-1860), <country key="CH">China</country> permitted foreign legations</l>
+            <l>to be established in Beijing for the first time.</l>
+            <l>[<hi rend="italic">See</hi> Hong Kong; Arrow War; <hi rend="italic">and</hi> Treaty
+               Ports.]</l>
+         </p>
+         <p n="13">
+            <l><hi rend="gothic">Nineteenth-century Rebellions.</hi> The Opium War</l>
+            <l>and the shift of trade to treaty ports north of Canton</l>
+            <l>disrupted the economy of Guangdong Province.</l>
+            <l>Economic dislocation increased popular unrest and</l>
+            <l>provided the backdrop to the Taiping Rebellion</l>
+            <l>(1851-1864).</l>
+            <l>The Taiping movement was led by Hong Xiuquan</l>
+            <l>(1813-1864),who had been exposed to Christianity</l>
+            <l>in Canton. Convinced that he was the younger</l>
+            <l>brother ot Jesus, Hong founded a sect and in 1851</l>
+            <l>proclaimed the inauguration of the "Heavenly Kingdom</l>
+            <l>of Great Peace” (<hi rend="italic">taiping tianguo</hi>). His army</l>
+            <l>marched north and by 1853 took Nanjing, which</l>
+            <l>became the Taiping capital.</l>
+         </p>
+         <p n="14">
+            <l>Taiping ideology combined elements of</l>
+            <l>Christianity with Chinese utopian thought. lt envisioned</l>
+            <l>equal distribution of land, sexual equality, and communal</l>
+            <l>property. Taiping social policies prohibited</l>
+            <l>use of opium, slavery, polygamy, and the binding</l>
+            <l>of women’s feet. However, the Taiping movement</l>
+            <l>suffered from internecine warfare; moreover, its</l>
+            <l>religious intolerance and hostility to much of</l>
+            <l>traditional culture lost it popular support. <name type="dynasty">Qing</name> loyalists</l>
+            <l>eventually rallied behind provincial armies orga-</l>
+            <l>nized by Zeng Guofan (1811-1872) and others. The</l>
+            <l>Taipings were suppressed by 1864. [<hi rend="italic">See also</hi> Taiping</l>
+            <l>Rebellion <hi rend="italic">and</hi> Hong Xiuquan.]</l>
+         </p>
+         <p n="15">
+            <l>The Taiping Rebellion coincided with the Nian</l>
+            <l>Rebellion in North <country key="CH">China</country> (1853-186́8) and three</l>
+            <l>separate Muslim rebellions: in Yunnan (1856-</l>
+            <l>1872), in Shaanxi and Gansu (1862-1877), and in</l>
+            <l>eastern Turkestan (1864-1878). The Qing</l>
+            <l>suppressed the rebellions at the expense ot te central</l>
+            <l>government’s authority as provincial officials led</l>
+            <l>military operations and won fiscal autonomy. At the</l>
+            <l>same time, Han Chinese officials increased their</l>
+            <l>influence and the Manchus became less powerful. [<hi rend="italic">See</hi></l>
+            <l><hi rend="italic">also</hi> Nian Rebellion.]</l>
+         </p>
+         <p n="16">
+            <l><hi rend="gothic">Self-Strengthening and Imperialism.</hi> After 1860</l>
+            <l>the <name type="dynasty">Qing</name> adopted a conciliatory policy toward the</l>
+            <l>West. Under the leadership ot Prince Gong (Gong</l>
+            <l>Yixin; 1833-1898) and Empress Dowager Cixi</l>
+            <l>(1835-1908), the government established the Zongli</l>
+            <l>Yamen (a foreign affairs office) and a foreign</l>
+            <l>language school. Zeng Guofan and his protégé Li</l>
+            <l>Hongzhang (1823-1901), leaders of the suppression</l>
+            <l>of the Taipings, sought to increase <country key="CH">China</country>’s power</l>
+            <l>by introducing Western military technology. This</l>
+            <l>effort, known as the Self-Strengthening Movement,</l>
+            <l>resulted in establishment of te Jiangnan Arsenal</l>
+            <l>(1854) and the Fuzhou Shipyard. Eventually, the</l>
+            <l>movement also promoted industrial development.</l>
+            <l>Several enterprises were established under govern-</l>
+            <l>ment supervision and with private capital. [<hi rend="italic">See also</hi></l>
+            <l>Gong Yixin; Empress Dowager; Zongli Yamen;</l>
+            <l>Zeng Guofan; <hi rend="italic">and</hi> Li Hongzhang.]</l>
+         </p>
+         <p n="17">
+            <l>The Self-Strengthening Movement failed to</l>
+            <l>increase <country key="CH">China</country>’s milirary strength significantly,</l>
+            <l>however. In 1884 French ambitions in Vietnam, a</l>
+            <l>Chinese protectorate, sparked the Sino-French War</l>
+            <l>(1884-1885). Poor coordination and leadership</l>
+            <l>resulted in <country key="CH">China</country>’s defeat. Ten years later a clash with</l>
+            <l><country key="JAP">Japan</country> over Korea resulted in the Sino-<country key="JAP">Japan</country>ese War</l>
+            <l>(1894-1895), which <country key="JAP">Japan</country> won easily. [<hi rend="italic">See also</hi></l>
+            <l>Sino-<country key="JAP">Japan</country>ese War.]</l>
+         </p>
+         <p n="18">
+            <l>After <country key="CH">China</country>’s defeat, a "scramble for concessions"</l>
+            <l>ensued. Germany, Russia, France, and <country key="GB">Britain</country></l>
+            <l>all forced <country key="CH">China</country> to lease ports and recognize foreign</l>
+            <l>spheres of influence over Chinese territory. Nominal</l>
+            <l>Chinese sovereignty was preserved in the foreign</l>
+            <l>areas, mainly because the competing powers</l>
+            <l>checked each others ambitions. Nonetheless,</l>
+            <l>imperialist pressure threatened to destroy <country key="CH">China</country>’s</l>
+            <l>unity and independence. [<hi rend="italic">See also</hi> Imperialism.]</l>
+         </p>
+         <p n="19">
+            <l><hi rend="italic">Late <name type="dynasty">Qing</name> Reform.</hi> This crisis brought a group of</l>
+            <l>reformers to the attention of the Guangxu emperor</l>
+            <l>r. 1875-1908). Their leader, Kang Youwei (1858-</l>
+            <l>1927), reinterpreted Confucianism to sanction</l>
+            <l>radical innovation. In the summer of 1898 the emperor</l>
+            <l>issued a series of decrees calling for wide-ranging</l>
+            <l>institutional reforms and economie development,</l>
+            <l>but official resistance blocked implementation of the</l>
+            <l>reforms. In September 1898, conservatives led by</l>
+            <l>Empress Dowager Cixi staged a coup d’état. The</l>
+            <l>emperor was placed under house arrest; the reformers</l>
+            <l>fled into exile or were arrested.</l>
+         </p>
+         <p n="20">
+            <l>The new conservative government soon threw its</l>
+            <l>support behind the Boxers (more properly, Yihe-</l>
+            <l>tuan, "righteous and harmonious society"), a</l>
+            <l>popular movement dedicated to driving Westerners out</l>
+            <l>of <country key="CH">China</country>. The Boxers occupied Beijing in the</l>
+            <l>summer ot 1900 and besieged the foreign legations</l>
+            <l>with the connivance of the <name type="dynasty">Qing</name> government, which</l>
+            <l>declared war on the foreign powers. Regional</l>
+            <l>officials in central and southern <country key="CH">China</country>, however,</l>
+            <l>ignored the declaration of war and maintained</l>
+            <l>friendly relations with the powers. An international</l>
+            <l>force occupied Beijing in August 1900. In 1901</l>
+            <l><country key="CH">China</country> was forced to sign the Boxer Protocol, which</l>
+            <l>provided for a foreign military presence in North</l>
+            <l><country key="CH">China</country>, punishment for Chinese officials implicated</l>
+            <l>in the Boxer movement, and an indemnity. [<hi rend="italic">See also</hi></l>
+            <l>Yihetuan.]</l>
+         </p>
+         <p n="21">
+            <l>The chastened <name type="dynasty">Qing</name> government thereupon</l>
+            <l>undertook an extensive reform program, similar in</l>
+            <l>many ways to the one aborted in 1898. A new public</l>
+            <l>education system was inaugurated, and in 1905 the</l>
+            <l>civil service examination system, based on the</l>
+            <l>Confucian classics, was abolished. The traditional Six</l>
+            <l>Boards were replaced with new ministries. Modern</l>
+            <l>military academies trained a new officer corps and</l>
+            <l>Yuan Shikai (1859-1916) established the Beiyang</l>
+            <l>Army, a modern military force.</l>
+         </p>
+         <p n="22">
+            <l><country key="JAP">Japan</country>'s defeat of Russia in 1905 appeared to</l>
+            <l>prove the superiority of constitutionalism over</l>
+            <l>autocracy. The <name type="dynasty">Qing</name> government slowly began to</l>
+            <l>establish representative assemblies. Provincial assem-</l>
+            <l>blies, with advisory functions but not legislative</l>
+            <l>powers, were established in 1909. A consultative</l>
+            <l>National Assembly met the following year.</l>
+            <l>Nevertheless, the Manchu princes controlling de government</l>
+            <l>moved cautiously and continued to monopolize</l>
+            <l>lize the highest positions, thereby increasing Chinese</l>
+            <l>frustrations and resentment.</l>
+         </p>
+         <p n="23">
+            <l><hi rend="gothic">The Revolution of 1911.</hi> In the decade following</l>
+            <l>the Boxer Rebellion, expatriate reformers and</l>
+            <l>revolutionaries vied for support. Kang Youwei, in exile</l>
+            <l>in <country key="JAP">Japan</country>, remained loyal to the <name type="dynasty">Qing</name> and opposed</l>
+            <l>attempts to overthrow the dynasty. His disciple</l>
+            <l>Liang Qichao (1873-1929) became familiar with</l>
+            <l>Western political ideas and spread them in the</l>
+            <l>journals he published in Tokyo. [<hi rend="italic">See also</hi> Kang Youwei</l>
+            <l>and Liang Qichao.]</l>
+         </p>
+         <p n="23">
+            <l>Their most important rival was another Chinese</l>
+            <l>exile, Sun Yat-sen (1866-1925). Sun was a Western-</l>
+            <l>educated Cantonese with ties to overseas Chinese</l>
+            <l>communities. In 1905 Sun established a revolution-</l>
+            <l>ary organization based in Tokyo, the Tongmenghui</l>
+            <l>(Revolutionary Alliance). He promoted republicanism</l>
+            <l>and his "Three Principles of the People" -</l>
+            <l>nationalism, people’s rights, and people’s livelihood.</l>
+         </p>
+         <p n="24">
+            <l>On 10 October 1911 revolutionary soldiers in the</l>
+            <l><name type="dynasty">Qing</name> army garrison in Wuchang mutinied. The au-</l>
+            <l>thority of the <name type="dynasty">Qing</name> government rapidly collapsed;</l>
+            <l>provincial assemblies in southern and central <country key="CH">China</country></l>
+            <l>declared their independence from the Manchus, and</l>
+            <l>a provisional government was established in Nanjing.</l>
+            <l>Sun Yat-sen returned from a sixteen-year exile</l>
+            <l>to be inaugurated as the first president of the Re-</l>
+            <l>public of <country key="CH">China</country>.</l>
+         </p>
+         <p n="25">
+            <l>The <name type="dynasty">Qing</name> court called upon the retired general</l>
+            <l>Yuan Shikai to deal with the revolutionaries. Sun</l>
+            <l>offered to resign the presidency in favor ot Yuan if</l>
+            <l>Yuan were to support the republic. Yuan engineered</l>
+            <l>the abdication of the five-year-old Xuantong</l>
+            <l>emperor in February 1912, and accepted the presi-</l>
+            <l>dency, ending <country key="CH">China</country>'s two millennia of imperial</l>
+            <l>rule.</l>
+            <l>[<hi rend="italic">See also</hi> Xinhai Revolution; Xuantong Emperor;</l>
+            <l>Sun Yat-sen; Yuan Shikai; <hi rend="italic">and</hi> <country key="CH">China</country>, Republic Pe-</l>
+            <l>riod.]</l>
+         </p>
+      </body>
+   </text>
+</TEI>
